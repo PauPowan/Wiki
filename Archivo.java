@@ -3,21 +3,21 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 /**
- * Write a description of class Diccionario here.
+ * Write a description of class Archivo here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Diccionario
+public class Archivo
 {
     // instance variables - replace the example below with your own
     String ruta;
     File archivo;
     BufferedWriter bw;
     /**
-     * Constructor for objects of class Diccionario
+     * Constructor for objects of class Archivo
      */
-    public Diccionario(String ruta)throws IOException 
+    public Archivo(String ruta)throws IOException 
     {
         this.ruta=ruta;
         this.archivo = new File(ruta);

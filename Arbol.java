@@ -5,16 +5,18 @@ public class Arbol {
     public static final int IZQ = 0;
     public static final int DER = 1;
     public static final int NODOS = 2;
-    
+
     private class Nodo {
         public int id;
         public ArrayList<String> palabras;
         public Nodo hijo[];
-
-        public Nodo(int id,String palabra){
+        boolean tripleta;
+        public Nodo(int id,String palabra,boolean tripleta){
             this.id= id;
+            this.palabras= new ArrayList<String>();
             this.palabras.add(palabra);
-            Collections.sort(palabras);
+            System.out.println(palabras.size());
+            this.tripleta=tripleta;
             hijo = new Nodo[NODOS];
             // hijo[IZQ] y hijo[DER] son null
         }
@@ -25,7 +27,10 @@ public class Arbol {
             if(hijo[lado]!=null){
                 tira += hijo[lado].toString();   
             }
-            tira+="\n"+elemento;
+            for(int i=0;i<palabras.size();i++){
+                tira+="\n"+this.id+"\t"+palabras.get(i);
+
+            }
             lado = DER;
             if(hijo[lado]!=null){
                 tira += hijo[lado].toString();   
@@ -33,31 +38,50 @@ public class Arbol {
             return tira;
         }
 
-        public void insertar(int id,String palabra){
+        public int getId(String busqueda){
+            int id=0;
             int lado = IZQ;
-            if(this.id==id){
+            
+            if(hijo[lado]!=null){
+                    id=hijo[lado].getId(busqueda);   
+            }
+            if(id==0&&this.palabras.contains(busqueda)){
+                    id=this.id;
+            }
+            lado=DER;
+            if(id==0&&hijo[lado]!=null){
+                id=hijo[lado].getId(busqueda); 
+            }
+            return id;
+        }
+
+        public void insertar(int id,String palabra,boolean tripleta){
+            int lado = IZQ;
+            if(this.id!=id){
                 if(id>this.id){
                     lado = DER;
                 }
                 if(hijo[lado]==null){
-                    hijo[lado] = new Nodo(id,palabra);   
+                    hijo[lado] = new Nodo(id,palabra,tripleta);   
                 }
                 else {
-                    hijo[lado].insertar(id,palabra);   
+                    hijo[lado].insertar(id,palabra,tripleta);   
                 }
             }else{
-            this.palabras.add(palabra);
-            Collections.sort(palabras);
+                if(tripleta||!palabras.contains(palabra)){
+                    this.palabras.add(palabra);
+                    Collections.sort(palabras);
+                }
             }
         }     
     }
     private Nodo raiz;
-    public void insertar(String elemento){
+    public void insertar(int id,String palabra,boolean tripleta){
         if(raiz==null){
-            raiz = new Nodo(elemento); 
+            raiz = new Nodo(id,palabra,tripleta); 
         }
         else {
-            raiz.insertar(elemento); 
+            raiz.insertar(id,palabra,tripleta); 
         }
     }
 
@@ -67,5 +91,11 @@ public class Arbol {
             tira+=raiz.toString(); 
         }
         return tira;
+    }
+
+    public int getId(String busqueda){
+        int id=0;
+        raiz.getId(busqueda);
+        return id;
     }
 }

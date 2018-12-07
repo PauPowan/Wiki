@@ -1,3542 +1,1296 @@
 
-A
-AFI
-ALT
-AMD_Athlon
-AMD_Athlon_MP
-AMD_Athlon_XP
-AMD_Duron
-AMD_Sempron
-API
-API_de_Windows
-APIs
-ASPI
-Aarón_I
-Abadía_de_Cluny
-Abadía_de_Essen
-Abbas
-Abbasí
-Abbás_Ibn_Firnás
-Abd
-Abd_Al-Rahman
-Abd_Allah
-Abderramán_II
-Abderramán_III
-Abderramán_II_de_Córdoba
-Abderramán_IV
-Abderramán_Sanchuelo
-Abderramán_V
-Abe
-Abi
-Abi_Amir_Muhammad
-Abraham
-Abu_Abd_Allah_Ibn_Abd
-Abu_Abdullah
-Abu_Hanifa
-Abu_Jafar_Khazeni
-Abu_Mansur
-Abu_Mansur_Nizar
-Abu_Marwan
-Abu_Marwan_Ibn_Hayyan
-Academia_de_Cine
-Aceifa
-Acontecimientos
-Adelaida_de_Aquitania
-Adeodato_II
-Adi_Shankara
-Adios
-Adolphe
-Adriano_II
-Adriano_III
-Adriano_IV
-Adrianópolis
-Aelfheah
-Agapito_II
-Agatón
-Aglab
-Agnes_de_Francia
-Ahmad
-Aimeric_de_Peguilhan
-Aisha
-Al-Adid
-Al-Amin
-Al-Andalus
-Al-Andalus_Abd
-Al-Ba-rra
-Al-Biruni
-Al-Farghani
-Al-Hakam_I
-Al-Hakim
-Al-Hallaj
-Al-Hasa
-Al-Kindi
-Al-Ma'mun
-Al-Mamun
-Al-Mansur
-Al-Muktafil
-Al-Mundir
-Al-Mutasim
-Al-Qila
-Al-Wathiq
-Alamánico
-Albania
-Albarracín
-Alberto_Avogadro
-Albucasis
-Alcácer
-Aldroito
-Alejandro_III
-Alemania
-Alemán
-Alemán-Español
-Alemán_de_Pensilvania
-Alerán
-Alexandre_Julliard
-Alfabeto
-Alfonso
-Alfonso_Froilaz
-Alfonso_Henriques
-Alfonso_I
-Alfonso_II
-Alfonso_III
-Alfonso_III_de_Asturias
-Alfonso_II_de_Aragón
-Alfonso_II_de_Asturias
-Alfonso_II_de_Portugal
-Alfonso_IV
-Alfonso_IV_de_León
-Alfonso_IX
-Alfonso_IX_de_León
-Alfonso_I_de_Aragón
-Alfonso_I_de_Portugal
-Alfonso_V
-Alfonso_VII
-Alfonso_VIII
-Alfonso_VIII_de_Castilla
-Alfonso_V_de_León
-Alfredo_el_Grande
-Alfredo_el_Grande_de_Inglaterra
-Alhakén_II
-Alhandega
-Alhazen_Abu_Ali
-Ali
-Alianza
-Alkindi
-Allah
-Allemanisch
-Almada
-Almanzor
-Almería
-Alodia
-Alodie
-Alsacia
-Alta_Sajonia
-Altfrid_de_Hildesheim
-Alto
-Alto_Adigio
-Alto_Sajón
-Alyas
-Alí
-Amalarico_I
-Amalfi
-Amaury_VI_de_Montfort
-Amaya
-Amorium
-América
-Ana_Comnena
-Anacleto_II
-Anastasio_III
-Anastasio_IV
-Anatolia
-André_de_Montbard
-Andrónico_I_Comneno
-Angkor
-Anglos
-Angus_II
-Ann
-Annam
-Anse
-Ante
-Antioquía
-Antipapa
-Antoku
-Antonio_de_Padua
-Apache
-Apache_MINA
-Apache_Software_Foundation
-Apertura_Sinagoga_Mayor_de_Toledo
-Api
-Appserv
-Apríl
-Apóstol_Santiago
-Aquila
-Aquitania
-Arabia
-Aragón
-Aragón_Alfonso_II_el_Trovador
-Aragón_Nacimientos
-Archivo_Histórico_de_la_Diputación_Provincial_de_Zaragoza
-Arga
-Argentina
-Argentina_por_Diego_Saravia_de_la_Universidad_Nacional_de_Salta
-Arista-Iñiguez
-Arkona
-Armagh
-Armand_de_Périgord
-Armas
-Armenia
-Arnaud_de_Torroja
-Arnulfo_de_Baviera
-Arnulfo_de_Carintia
-Arruda
-Arturo_I_de_Bretaña
-Arzobispo_Ariberto
-Arzobispo_de_Armagh
-Arzobispo_de_Canterbury
-Arzobispo_de_Reims
-Asamblea_Nacional
-Asia
-Asociación_Mozilla_Europa
-Assur_Fernández
-Astrónomo
-Asturias
-Ata
-Ataque
-Athelstan
-Athelstan_de_Inglaterra
-Atiq_de_Qazvin
-Auf_Wiedersehen
-Augsburgo
-Australia
-Austrasia
-Austria
-Austrobávaro
-Avempace
-Averroes
-Avicena
-Ayla
-Aznar_Galindo
-Aznar_II_Galíndez
-Aztecas
-Aztlán
-Año
-BSD
-Badajoz
-Baden-Württemberg
-Bagdad
-Bairisch
-Bairisch-Österreichisch
-Bajo
-Bajo_Alemán
-Balduino_II
-Balduino_III
-Balduino_IV
-Balduino_IV_de_Jerusalén
-Balduino_IV_el_Leproso
-Balduino_I_de_Constantinopla
-Balduino_V
-Balduino_de_Ibelín
-Baldwin_IV
-Balián_de_Ibelín
-Bandera_de_Escocia
-Bangladesh
-Barcelona
-Barcelona_Ramón_Berenguer_III
-Bari
-Barisán_de_Ibelín
-Base
-Baseldiitsch
-Basilea
-Basilio_I
-Basilio_II
-Basingwerk_Abbey
-Batalla_de_Alarcos
-Batalla_de_Albelda
-Batalla_de_Brunanburh
-Batalla_de_Calatañazor
-Batalla_de_Clavijo
-Batalla_de_Ichi
-Batalla_de_Lechfeld
-Batalla_de_Legnano
-Batalla_de_Miriocéfalo
-Batalla_de_Montsigard
-Batalla_de_Nocera
-Batalla_de_Plisca
-Batalla_de_San_Mamede
-Batalla_de_Santarem
-Batalla_de_Simancas
-Batalla_de_la_Morcuera
-Batalla_de_los_Cuernos_de_Hattin
-Bautizo_de_Gerloc
-Baviera
-Baviera_Antigua
-Bayreuth
-Bearn
-Behelendorf
-Bela_III
-Belasco
-Benchmarks_de_Wine
-Benedicto_II
-Benedicto_III
-Benedicto_IVcomo
-Benedicto_V
-Benedicto_VI
-Benedicto_VII
-Benedicto_VIII
-Benevento
-Bengala
-Benjamín_de_Tudela
-Bera
-Berenguela
-Berenguer_I
-Berenguer_Ramón_I
-Bermudo_II
-Bermudo_III_de_León
-Bermudo_II_de_León
-Berna
-Berna_Bärndütsch
-Bernard_de_Tremelay
-Bernardo_II_de_Tolosa
-Bernardo_Tallaferro
-Bernardo_de_Claraval
-Bernardo_de_Italia
-Bernardo_el_Viejo
-Berserkers
-Berta_de_Borgoña
-Berthold
-Bertrand_de_Blanchefort_Gran_Maestre_de_la_Orden_de_el_Temple
-Besalú
-Bi-Amrillah
-Biblia
-Bill
-Billah
-Bits
-Bitte
-Bizancio
-Bizantinas
-Bizantino
-Bizantinos
-Blanca_de_Castilla
-Blois
-Bob_Amstadt
-Boda
-Boda_de_Ramón_Berenguer_IV
-Bohemia
-Bohemundo_II_de_Antioquía
-Boleslao_II
-Boleslao_II_de_Bohemia
-Boleslao_I_de_Polonia
-Boleslao_I_el_Bravo
-Bonifacio_VI
-Bonifacio_VII
-Bonsai
-Boot_Camp
-Borgoña
-Boris_I_de_Bulgaria
-Borrel_II
-Borrell
-Borrell_II
-Brahmagupta
-Brandeburgo
-Brasil
-Bretaña
-Brian_Boru
-Brian_Boru_Gran_Rey_de_Irlanda
-Brian_Brou
-Brötchen
-Buen_Cura
-Buenos_Aires
-Bugzilla
-Bulgaria
-Burgos
-Butter
-Bávaro
-Bärndütsch
-Bélgica
-Bética
-Bíte
-Búlgaros
-Bühnendeutsch
-C
-C._Para
-CD
-CD-ROM
-CTO
-Calendario
-Caleruega
-Califa
-Califa_Almohade_de_el_Norte_de_África
-Califa_de_Bagdad
-Califato_Omeya
-Califato_de_Bagdad
-Califato_de_Córdoba
-Califato_de_Damasco
-Califato_de_Egipto
-California
-Calixto_II
-Calzada
-Camboya
-Camino
-Camino_de_Santiago
-Campaña
-Canadá
-Canciller
-Canciones
-Canciones_Republicanas_de_la_Guerra_Civil_Española
-Canterbury
-Cantidad
-Cantos_Revolucionarios
-Canuto_II_de_Dinamarca
-Canuto_el_Grande
-Canzoni
-Capacidad
-Capacidades
-Capitular_de_Quierzy
-Capítulos
-Características
-Carcasona
-Cardeña
-Carintia
-Carlomagno
-Carlomago
-Carlomán_II_de_Francia
-Carlomán_de_Baviera
-Carlos
-Carlos_III_de_Francia
-Carlos_III_el_Gordo
-Carlos_Martel
-Carlos_VII
-Carlos_el_Calvo
-Carmen_Campidoctoris
-Carolino
-Carta-Puebla_de_Alfonso_I_de_Aragón_Nacimientos
-Carta_Magna_Leonesa
-Carta_Puebla_de_Brañosera
-Carta_de_Privilegios_de_la_Comuna_de_Dreux
-Cartago
-Casado
-Caspe
-Castellano
-Castilla
-Castillo_de_Saldaña
-Castrogeriz
-Cataluña
-Cataluña_Vieja
-Catedral_Notre-Dame_de_París
-Catedral_de_San_Sabino
-Catedral_de_Santa_María_de_Sigüenza
-Catedral_de_Santiago_de_Compostela_El_Maestro_Mateo
-Catedral_de_Sigüenza
-Católica_Nacimientos
-Ce_Ácatl_Topiltzin_Quetzalcóatl
-Cedega
-Celestino_II
-Celestino_III
-Cerdaña
-Cerezo
-Champagne
-Champaña
-Chamäleon
-Chiao
-Chicago
-Childerico_II
-Chile
-Chilperico_II
-China
-Chipre
-Choushou
-Chrétien_de_Troyes
-Ciaou
-Cid
-Cid_Campeador
-Cientos
-Cilicia
-Cirilo
-Cisma
-Ciudad_Real
-Clara_de_Asís
-Claustro_de_San_Isidoro_de_León
-Clemente_III
-Clodoveo_IV
-Clondalkin
-Clontarf
-Clotario_III
-Cluny
-CodeWeavers
-Coimbra
-Colapso_de_el_Reino_de_Jerusalén
-Colmar
-Colonia
-Columna
-Colón
-Comienzo
-Compatibilidad
-Compostela
-Compresión
-Comunicaciones_Seguras
-Conan_IV
-Concesión
-Concilio_de_la_Paz_de_Dios
-Condado_de_Pallars_Jussà
-Condado_de_Portugal
-Condado_de_Provenza
-Conde_Baldwin_II_de_Flandes
-Conde_de_Barcelona
-Conde_de_Castilla
-Conde_de_Cataluña
-Conde_de_Hainaut
-Conde_de_Pallars_Subirá
-Conde_de_Pamplona
-Conde_de_Provenza
-Conde_de_Urgel
-Conector
-Congreso_Internacional_de_Copenhage
-Conquista_de_Astorga
-Conquista_de_Cuenca
-Conquista_de_Edesa_por_Zengi
-Conrado_I
-Conrado_II
-Conrado_III
-Conrado_de_Montferrato
-Conrado_el_Rojo
-Consonantes
-Constance_Taillefer
-Constante_II
-Constantino_I
-Constantino_IX
-Constantino_VII
-Constantino_VIII
-Constantino_X
-Constantinopla
-Constantinopla_III
-Constanza_de_Antioquía
-Constanza_de_Castilla
-Constitución_Islandesa
-Construcción_de_la_Cúpula_de_la_Roca
-Conón
-Corea
-Corel
-Coronación_de_el_Rey_Eduardo_el_Mártir
-Corporación_Mozilla
-Cortes
-Cortes_Democráticas
-Creación
-Creación_de_el_Alþingi
-Cremthanin
-Cristiandad
-Cristianismo
-CrossOver
-CrossOver_Office
-Cruzada
-Cruzadas
-Crónica
-Crónica_de_Al-Nasir
-Cuba
-Cuixà
-Cuniperto
-Curso
-Cusack
-Cygwin
-Cáceres
-Cádiz
-Céntulo_III_de_Bigorra
-Císter_Aragonés_La_Carta_de_Donación_de_Ramón_Berenguer_IV
-Código
-Córcega
-Córdoba
-Córdoba_García_Fernández
-D._Afonso_Henríquez
-D._Sancho
-DIX
-DLL
-DLL's_de_el_Modo_de_Usuario
-DOSBOX
-DVD
-Dagar
-Dagoberto_III
-Dalmacia
-Damasco
-Damietta
-Dan-no_Ura
-Daniel_Olivera
-Danke
-Danubio
-Das
-Degeyter
-Deheubarth
-Delhi
-Demografía
-Depurador
-Dermot_MacMurrough
-Derribo
-Derrota
-Desarrollo
-Descripción
-Desember
-Destrucción_de_Medina_Azahara
-Deutsch
-Deutsche_Welle
-Deutsche_Welle_Curso
-Devapala
-Deventer
-Dhaka
-Dharmapala
-Dialectos
-Diarmait_MacMurrough
-Diarmait_Mac_Murchada
-Diccionario
-Diccionario_Alemán-Español
-Diccionario_Freelang
-Diccionario_Osola_Alemán
-Diccionario_PONS
-Diccionarios
-Dick
-Diego_Gelmírez
-Diego_López_I_de_Haro
-Diego_Muñoz
-Diego_Muñoz_de_Saldaña
-Diego_Rodríguez
-Diego_Rodríguez_Porcelos
-Dinamarca
-Dinastía_Song
-Dinastía_Song_de_China
-Dinastía_Zhou
-Dios_Huitzilopochtli
-DirectX
-Diseño
-Divisio
-División
-Divorcio_de_Luis_VII_de_Francia
-Documentación
-Documento
-Domnall_II
-Don_Pelayo
-Dono
-Dorestad
-Doña_Urraca
-Du_You
-Dulce_de_Aragón
-Dunash
-Duque_de_Aquitania
-Duque_de_Baviera
-Duque_de_Britania
-Dux_de_Venecia
-Dánque
-Décimo
-Día_de_los_Difuntos
-Días
-Días_de_la_Semana
-Dónde
-ECMA
-EEUU
-ENDOFARTICLE
-ESmedo
-Eardwulfo
-Ebro
-Echternach
-Edesa
-Edgar_el_Pacífico
-Edgiva_de_Kent
-Edmundo_II_Brazo_de_Hierro
-Edmundo_I_el_Magnífico
-Edred
-Eduardo_el_Mártir
-Eduardo_el_Viejo
-Egilona
-Egipto
-Eider
-Ej.
-Ejemplos
-Ejercicios
-El
-El_Cairo
-El_Centro
-El_Papa_Silvestre_II
-El_Periódico_de_Aragón
-El_Sínodo_de_Aquilea
-El_Vaticano
-Elena_Lecapeno
-Eleonor
-Elgiva_de_York
-Elipando
-Eloísa
-Elvira_Menéndez_de_Melanda
-Emirato_de_Córdoba
-Emma_de_Blois
-Emma_de_Normandía
-Emmerich
-Emperador
-Emperador_Antoku_de_Japón
-Emperador_Basilio_I
-Emperador_Daigo_de_Japón
-Emperador_Federico_I_Barbarroja
-Emperador_Go-Ichijo_de_Japón
-Emperador_Heizei
-Emperador_Ichij
-Emperador_Kanmu
-Emperador_Kazan_de_Japón
-Emperador_Koko_de_Japón
-Emperador_Montoku
-Emperador_Murakami_de_Japón
-Emperador_Ninmy
-Emperador_Saga
-Emperador_Sanj_de_Japón
-Emperador_Takakura
-Emperador_Tsuchimikado_de_Japón
-Emperador_Uda_de_Japón
-Emperador_Zhenzong_de_China
-Emperador_de_Bizancio
-Emperador_de_Japón
-Emperador_de_los_Francos
-Emperatriz
-Emulator
-En
-En_Asia
-En_España
-Englisch
-Enlaces
-Enrigue_VI
-Enrique
-Enrique_I
-Enrique_II
-Enrique_III_de_el_Imperio_Romano
-Enrique_III_el_Negro
-Enrique_II_de_Inglaterra
-Enrique_II_el_Santo
-Enrique_IV_de_Baviera
-Enrique_I_el_Pajarero
-Enrique_V
-Enrique_VI
-Enrique_de_Blois
-Enrique_de_Plantagenet
-Enrique_el_León
-Eric_Youngdale
-Erik_III_de_Dinamarca_ENDOFARTICLE
-Erik_el_Rojo
-Erik_el_Sanguinario
-Erik_el_Santo
-Erik_el_Victorioso
-Ermengarda_de_Ampurias
-Ermengol_I
-Ermengol_I_de_Urgel
-Ermengol_VI
-Ermengol_VII
-Ermengol_VIII
-Ermengol_de_Osona
-Erquinoaldo
-Ervigio
-Escandinavia
-Eschenbach
-Escocia
-Escotos
-Escritor
-Escuela_de_Astronomía_de_Bagdad
-Esja
-España
-España_Batalla_de_Valdejunquera
-España_Nacimientos
-Español
-Español-Alemán
-Establecemiento
-Estaciones_de_el_Año
-Estado
-Estado_de_Wu
-Estados_Unidos
-Estadísticas
-Estauracio
-Estauricio
-Esteban_II
-Esteban_IV
-Esteban_I_de_Blois
-Esteban_V
-Esteban_VI
-Esteban_VII
-Esteban_VIII
-Estella
-Estocolmo
-Estruma
-Eszett
-Etelredo_II_el_Indeciso
-Ethelbaldo_de_Wessex
-Ethelred_II_de_Inglaterra
-Ethelweard
-Ethelwulfo
-Etienne_de_Blois
-Etiopía
-Eudes_II_de_Borgoña
-Eudes_de_Saint-Amand
-Eufemio
-Eugenio
-Eugenio_II
-Eugenio_III
-Eugène_Pottier
-Euroarabe
-Europa
-Everardo
-Evolución
-Excepción
-Expansión_de_el_Reino_de_Pamplona
-Expulsión
-Extensible
-Ezra
-FSF
-Fallecimientos
-Fatimí
-Faðir
-Febrúar
-Fecha
-Federico
-Federico_II_Hohenstaufen
-Federico_I_Barbarroja
-Feidlimid
-Felipe_II_de_Francia
-Felipe_de_Alemania
-Felipe_de_Alsacia
-Ferdomnach_de_Armagh
-Fernando_I
-Fernando_II
-Fernando_II_de_León
-Fernrohr
-Fernseher
-Fernán_González
-Fernán_González_ENDOFARTICLE
-Fez
-Fibonacci
-Fijación
-Filtrado
-Fimmtudagur
-Fin
-Fin_de_el_Califato_Perfecto
-Fink
-Firma_de_el_Tratado_de_Tordehumos
-Flandes
-Flexión
-Flodoardo
-Focio_I
-Fonología
-Formoso
-Fortriu
-Fortún_Garcés
-Fortún_Garcés_de_Pamplona
-Fotos
-Fountains_Abbey
-Francia
-Francia_Luis_VII
-Francia_Occidental
-Francia_Oriental
-Francia_de_la_Inquisición
-Francisco_de_Asís
-Francisco_de_Mendoza
-Franconia
-Francés
-Francón
-Fratres
-Fray_Justo_Pérez_de_Urbel
-FreeDOS
-Free_Software_Foundation
-Froila_Bermúdez
-Fruela_II
-Fruela_II_Asturias
-Fruela_II_de_Asturias
-Fráncico
-Fráncico_de_el_Mosela
-Fränkisch
-Fuero_de_Daroca_por_Ramón_Berenguer
-Fuero_de_León
-Fuero_de_Plasencia
-Fuero_de_Villasila
-Fuero_de_Zorita_de_los_Canes
-Fueros_de_Alfonso_V
-Fuerte
-Fuji
-Fujiwara
-Fulco_de_Jerusalén
-Fulgencio_de_Écija
-Fulk_El_Venerable
-Fundación
-Fundación_Mozilla
-Fundación_de_Kasimov_por_Yury_Dolgoruky
-Fundación_de_Treviño
-Fundación_de_el_Monasterio_de_Cluny
-Fundación_de_el_Monasterio_de_Santa_María_la_Real_de_Las_Huelgas_por_Alfonso_VIII
-Fundación_de_el_Monasterio_de_la_Gran_Laura
-Fundación_de_la_Orden_de_Calatrava
-Fundación_de_la_Taifa_de_Sevilla
-Fyrirgef
-Félix_de_Urgel
-Föstudagur
-G._Delory
-GDI
-GNU
-GPL
-GTK
-GUI
-Gales
-Galib
-Galicia
-Galicia_de_Bermudo_II_de_León
-Galindo
-Gandersheim
-García_Fernández
-García_I
-García_Iñiguez_de_Pamplona
-García_Ramírez_de_Navarra
-García_Sánchez
-García_Sánchez_I
-García_Íñiguez_de_Pamplona
-Gastón_IV_de_Bearn
-Gausfredo_I.
-Gausfredo_III
-Gebra_Maskal_Lalibela
-Gecko
-Geco
-Gef
-Gengis_Kan
-Genji
-Gentoo
-Gerardo_II
-Gerardo_II_de_Rosellón
-Gerardo_de_Cremona
-Gerberto_de_Aurillac
-Gerloc
-Gerona
-Gervase_de_Canterbury
-Gijón
-Giovanni
-Giralda
-Gisela_de_Borgoña
-Gleb_de_Kiev
-Godofredo
-Godofredo_III_de_Lovaina
-Godofredo_II_de_Bretaña
-Gonzalo_Menéndez
-Google
-Gorm_el_Viejo
-Gracias
-Gramática
-Gran_Ducado_de_Kiev
-Gran_Maestre_de_la_Orden_de_el_Temple
-Gran_Moravia
-Gran_Moravia_de_Svatopluk_I
-Grande
-Grecia
-Gregorio_IV
-Gregorio_V
-Gregorio_VIII
-Grimoaldo_III
-Grimoaldo_IV
-Grimoaldo_IV_de_Benevento
-Groenlandia
-Gruffydd
-Gráficos
-Grüezi
-Grüß
-GtkMozEmbed
-Gualdim_País
-Guerra
-Guido_de_Arezzo
-Guido_de_Lusignan
-Guillermo_II_de_Apulia
-Guillermo_II_de_Sicilia
-Guillermo_IV_de_Aquitania
-Guillermo_I_de_Inglaterra
-Guillermo_I_de_Sicilia
-Guillermo_V_de_Poitou
-Guillermo_de_Poitiers
-Guillermo_de_Septimania
-Guillermo_de_Tiro
-Guislaberto_I
-Guzmán
-Gwriad
-Gwynedd
-Gérticos
-Güelfo_VI
-HTTP
-HTTP_Apache
-HTTP_Server
-Haakon_II_de_Noruega
-Hablantes
-Hablas
-Halley
-Hallo
-Hamburgo
-Hamud
-Handschuhe
-Hangzhou
-Hans_Sachs
-Harald_Blåtand
-Harald_I
-Harald_III
-Harald_I_de_Noruega
-Harnröhre
-Harold_II_de_Inglaterra
-Harrison_Ford
-Harun
-Harún
-Hasan
-Hasan-i_Sabbah
-Haust
-Heike
-Helgist
-Hennegau
-Henry_III
-Heraclea_Cybistra
-Herbst
-Herluin_de_Conteville
-Hermann
-Hermenegildo
-Herrera_de_Pisuerga
-Hildegard_de_Bingen
-Hip-hop
-Hisham_II
-Hisham_III
-Hispania
-Historia
-Historia_Brittonum
-Historia_Roderici
-Historia_de_la_Lengua_Alemana
-Historiador_Medieval
-Historial
-Hochdeutsch
-Holanda
-Holmgang
-Honorio_II
-Hospital_de_el_Rey
-Hoysala
-Hugh_de_Grenoble
-Hugo
-Hugo_Capeto
-Hugo_de_Ibelín
-Hugo_de_Payens
-Hugo_el_Abad
-Humberto_I
-Humboldt
-Hunayn
-Hungría
-Hunifredo
-Hussein
-Huséin
-IETF
-II
-III
-II_Comneno
-INTxx
-IP
-ISBN
-IV
-IV_Cruzada
-IX_Concilio_de_Toledo
-Ibn_Al-Haitham
-Ibn_Bassan
-Ibn_Gabirol
-Ibn_Hazm
-Ibn_Marwan
-Ibrahim_I
-Ich
-Ichijo
-Idris_II
-Igel
-Igl
-Iglesia
-Iglesia_de_el_Santo_Sepulcro
-Imperio
-Imperio_Almohade
-Imperio_Bizantino
-Imperio_Carolingio
-Imperio_Hoysala
-Incendio_de_París
-Incorrectamente
-Independencia
-India
-Indiana
-Indicaciones
-Ingegerd_Olofsdotter
-Inglaterra
-Inicio
-Inocencio_II
-Instalar_Apache
-Intel
-Intento
-Interes_Nacional_por_la_Honorable_Cámara_de_Diputados_de_la_Nación_Argentina_Características
-Interfaz
-Internacional
-Internacionalización
-Internet
-Internet_Explorer
-Internet_Polyglot
-Internet_por_DesktopLinux
-Invasión
-Inés_de_Courtenay
-Iona
-Iraq
-Irene_Ducas
-Iria_Flavia
-Irlanda
-Isaac_I_Comneno
-Isabel_de_Henao
-Isabel_de_Jerusalén
-Ishaq
-Islam
-Islandia
-Islandés
-Islas_Feroe
-Istria
-Italia
-Italiano
-JSP
-Jakarta_Struts
-Jakarta_Tomcat
-Jalo
-James_Server
-Janúar
-Japón
-Japón_Nacimientos
-Japón_la_Era
-Jason_Filby
-Java
-Jerusalén
-Jessica_Lange
-Jimeno_Garcés
-Jiménez_de_Rada
-Joachim_de_Fiore
-Joan
-Joan_Cusack
-Johannes_de_Sacrobosco
-John
-Juan_Escoto_Erígena
-Juan_III_Ducas_Vatatzés
-Juan_II_Comneno
-Juan_IX
-Juan_I_Tzimisces
-Juan_I_de_Inglaterra
-Juan_V
-Juan_VI
-Juan_VII
-Juan_VIII
-Juan_X
-Juan_XI
-Juan_XII
-Juan_XIII
-Juan_XIV
-Juan_XIX
-Juan_XV
-Juan_XVII
-Juan_XVIII
-Judío
-Jueces_de_Castilla
-Junta_Sindical
-Juramentos_de_Estrasburgo
-Justiniano_II
-Jutlandia
-Júlí
-Júní
-Kaaba
-Kaifeng
-Karl
-Karotte
-Kassia
-Kazajistán
-Kazan
-Kazimierz_I_Odnowiciel
-Kazán
-Kells
-Kenneth_I
-Kenneth_III
-Kenneth_III_de_Escocia
-Khurasán
-Kiev
-Kievan_Rus
-Kioto
-Kleve
-Knut_Eriksson
-Krum
-Kurrent
-Kyushu
-Kühlschrank
-L'Internationale
-LAMP
-LDAP
-LGPL
-La
-La_Internacional
-La_Lyre
-La_Meca
-Labrat
-Laguna_de_Duero
-Landon
-Las
-Laugardagur
-Laín_Calvo
-Lecce
-Lecciones
-Leif_Erikson
-Leif_Eriksson
-Leinster
-Leipzig
-Lengua
-Lenguas
-Lenin
-Leonardo_de_Pisa
-Leoncio
-Leonor_de_Aquitania
-Leonor_de_Plantagenet
-Leopoldo_I
-Letras
-Levante_Ibérico
-Leví
-León
-León_II
-León_III
-León_I_de_Armenia
-León_V
-León_VI
-León_VII
-León_VIII
-León_VI_el_Sabio
-León_V_el_Armenio
-León_por_el_Tratado_de_Zamora
-Li-Dinillah
-Li_Bian
-Li_He
-Li_Yu
-Libro
-Libro_de_Récords_Guinness
-Liechtenstein
-Liga_Lombarda
-Lille
-Limassol
-Lindisfarne
-Linspire
-Linux
-Lira_de_los_Trabajadores
-Lisboa
-Literatura
-Lituania
-Liu_Yong
-Liu_Zongyuan
-Liutprando_de_Cremona
-Live_CD
-Lives-Lille
-Londres
-Lope_Díaz_II_de_Haro
-Lope_Díaz_I_de_Haro
-Lorena
-Los
-Lotaringia
-Lotario
-Lotario_I
-Lotario_I._España
-Lotario_III
-Lotus_Notes
-Lucerna
-Lucio_II
-Lucio_III
-Ludovico_Pío
-Lugo
-Luis_II
-Luis_II_de_Francia
-Luis_II_de_Francia_ENDOFARTICLE
-Luis_IV_de_Alemania
-Luis_IV_de_Francia
-Luis_V
-Luis_VIII
-Luis_VII_de_Francia
-Luis_VI_de_Francia
-Luis_V_de_Francia
-Luis_el_Germánico
-Luis_el_Piadoso
-Luitpoldinger
-Luna
-Lund
-Lupus
-Lutero
-Luxemburgo
-Luzärnerdütsch
-Ly
-Lyon
-Lyre
-Lémesos
-Léonin
-Línea_de_Benrath
-MLP
-MPL
-MS-DOS
-MXCIX
-Ma'ad
-MacOS
-Mac_OS_X
-Macbeth_de_Escocia
-Macintosh
-Madrid
-Maestre_de_la_Orden_de_el_Temple
-Magdeburg
-Magerit
-Magnus_Henriksen
-Magnus_Nilsson
-Maguncia
-Mahmud
-Mahoma
-Maimónides
-Makuria
-Malachy
-Malaquías_de_Armagh
-Malcolm_II
-Malik
-Manual_de_Frases
-Manuel_I_Comneno
-Manun
-Marca_Superior
-Marca_de_la_Bestia
-Marcos_Zapata
-Mardanis
-Maredudd
-Marino_I
-Marino_II
-Marrakech
-Mars
-Marsella
-María_de_Antioquía
-María_de_Francia
-Matemático
-Matemático_Persa
-Matilde
-Matilde_de_Inglaterra
-Matilde_de_Ringelheim
-Maud
-Mayeul
-Maí
-Me
-Medio_Alemán
-Meir
-Melanie_Griffith
-Melisenda_de_Jerusalén
-Melun
-Meno
-Menorca
-Mercurios
-Merfyn_Frych
-Meses
-Meses_de_el_Año
-Metodio
-Metz
-Mezquita_Jame
-Michinaga
-Microsoft
-Microsoft_Office
-Microsoft_Windows
-Mieszko_I
-Mieszko_II
-Miguel_Cerulario
-Miguel_I
-Miguel_II
-Miguel_III
-Miguel_IV_el_Paflagonio
-Miguel_I_Rangabé
-Miguel_V
-Milán
-Minamoto
-Minamoto_Yorimoto
-Minamoto_de_Japón
-Minimo
-Miranda_de_Ebro
-Miró_III_de_Cerdaña
-Miró_de_Barcelona
-Mitsunaka
-Mitteldeutsch
-Miðvikudagur
-Miño
-Modular
-Mohammed_II
-Mohrrübe
-Monasterio_de_Montserrat
-Monasterio_de_San_Salvador_de_Oña
-Monasterio_de_Sobrado
-Monfort
-Mongol
-Mono
-Montblanc
-Monte_Athos
-Monte_Merapi
-Montserrat
-Morgunblaðið
-Moros
-Moscú
-Moselfränkisch
-Moses_Ben_Maimon
-Mozilla
-MozillaES
-MozillaZine
-Mozilla_Application_Suite
-Mozilla_China
-Mozilla_Europa
-Mozilla_Firefox
-Mozilla_Hispano
-Mozilla_Japón
-Mozilla_Sunbird
-Mozilla_Thunderbird
-Muchas
-Muchas_Gracias
-Muere_Carlos
-Mugith
-Muhammad
-Muhammad_I
-Muhammad_II
-Muhammad_III
-Multi-plataforma
-Mundo
-Munio_Núñez
-Munmu_de_Silla
-Munster
-Murcia
-Mursiya
-Musa
-Muza
-Mánudagur
-Mánuðir
-México
-Módulo
-Módulo_Hello
-Módulos
-Möhre
-NCSA
-NCSA_HTTPd
-NET_de_Microsoft
-NT
-Nacht
-Nachttisch
-Nacimiento
-Nacimientos
-Nakafumi
-Namibia
-Navarra
-Navarra_García_I_Íñiguez
-Navarra_Sancho_VI_el_Sabio
-Nave_de_los_Locos
-Netcraft
-Netscape
-Neustria
-Nicetas_Choniates
-Nicéforo_I
-Nicéforo_II
-Niederdeutsch
-Niederfränkisch
-Niedersächsisch
-Ninmy
-Nishapur
-Niza
-Nizam
-Niño
-Nola
-Nordeste_de_Holanda
-Nordschleswig
-Normandos
-Normandía
-Norte_de_Alemania
-Norte_de_África
-Norteamérica
-Northumbria
-Noruega
-Nos_Vemos
-Notker_Labeo
-Notker_de_Lieja
-Notre_Dame
-Novgorod
-Nripa_Kama_II
-Nueva_York
-Nuevo_Emir_de_Al-Andalus
-Nuevo_Testamento
-Numerales
-Nunilo
-Nunilonis
-Nur
-Nusair
-Nuño_Pérez_de_Lara_el_Alfoz_de_Ibia
-Nuño_Rasura
-Nóvember
-Nóvgorod
-Número
-Núremberg
-OS
-Oberdeutsch
-Obispo_de_Toledo
-Obispo_de_Utrecht
-Object_REXX
-Occidente
-Odilón
-Oficialidad
-Og
-Ohio
-Október
-Olaf_Haralddson
-Olaf_I_de_Noruega
-Olav_Haraldsson
-Olga_de_Kiev
-Oliba
-Oliba_Cabreta
-Olof_Skötkonung
-Omar_Ben_Hafsun
-Omar_Jayyam
-Omeyas
-Online-Diccionario
-Ontario
-Open
-OpenGL
-Orden
-Orden_Teutónica
-Orden_de_Cluny
-Orden_de_Santiago
-Orden_de_el_Temple
-Ordenamiento_de_Nájera
-Orderico_Vital
-Ordoño_I
-Ordoño_II
-Ordoño_III
-Ordoño_III_de_León
-Ordoño_II_de_León
-Ordoño_IV
-Ordoño_IV_de_León
-Ordoño_I_Rey_de_Asturias
-Ordoño_I_de_Asturias
-Orense
-Organizaciones
-Organización_Alexander
-Oscar
-Osona
-Osorio_Diaz
-Otones
-Otras
-Otros
-Otto_de_Freising
-Otón_I
-Otón_II
-Otón_III
-Otón_I_de_Alemania
-Ouyang_Xiu
-Owain
-PHP
-Pablo_Rizzo
-Padrenuestro
-Palencia
-Palermo
-Palmela
-Pamplona
-Pantalla
-Papa
-Papa_Benedicto_IV
-Papa_Benedicto_VI
-Papa_Gregorio_IX
-Papa_Gregorio_V
-Papa_Juan_IX
-Papa_Juan_VI
-Papa_Juan_VIII
-Papa_Juan_XII
-Papa_Sergio_I
-Papa_Silvestre_II
-Papa_Sisinio
-Papa_de_Roma
-Papa_de_la_Iglesia
-Papa_de_la_Iglesia_Católica
-Parlamento_Europeo_León
-Parte
-Participación
-París
-Pascual_I
-Passio
-Patan
-Patriarca_de_Constantinopla
-Patriarca_de_Jerusalén
-Patriarcado_de_Aquilea
-Pavía
-Paz_de_Constanza
-Paz_de_Venecia
-Países_Bajos
-Pedro_Abelardo
-Pedro_Alfonso
-Pedro_González_Telmo
-Pedro_I_de_Hungría
-Pedro_I_de_Urgel
-Pedro_de_Lara
-Pensilvania
-Pentium
-Península
-Península_Ibérica
-Perl
-Persia
-Petronila
-Petronila_de_Aragón
-Peña_Amaya
-Pian_de_el_Carpine
-Pictos
-Pierre
-Pierre_Abelard
-Pierre_Degeyter
-Pietro_Barbolano
-Piniolo
-Pipino
-Pipino_de_Aquitania
-Pisanas
-Plattdeutsch
-PlayOnLinux
-Plaza_Vieja_de_Saldaña
-Plaza_de_los_Francos
-Poeta
-Polonia
-Pomerania
-Ponce_de_Trípoli
-Popular
-Por_favor
-Porcelos
-Portugal
-Posibilidad
-PostScript
-Pottier
-Powys
-Praga
-Primer
-Primer_Congreso
-Primer_Liga_Lombarda
-Princesa_Asuka_de_Japón
-Proclamación
-Productos
-Progon
-Programas
-Pronunciación
-Provenza
-Proyecto_UTUTO
-Príncipe_Ricardo_de_Inglaterra
-Príncipe_de_Aragón
-Príncipe_de_Benevento
-Príncipe_de_Kiev
-Príncipe_de_Polonia
-Príncipe_Álmos
-Prüm
-Puente_de_Londres
-Puente_la_Reina
-Python
-Página
-Páginas
-Pórtico_de_la_Gloria
-Q
-Qasi
-Qazvin
-Quedlinburg
-Qutab_Minar
-REXX
-RFC
-ROSExplorer
-Rabano_Mauro
-Ragnar_Lodbrok
-Ragnvald_Knaphövde
-Rahman_III
-Raimundo_de_Borgoña
-Raimundo_de_Poitiers
-Ralpacan
-Ramiro_I
-Ramiro_I._Imperio_Bizantino
-Ramiro_II
-Ramiro_III
-Ramiro_III_de_León
-Ramiro_II_El
-Ramiro_II_Nacimientos
-Ramiro_II_de_Aragón
-Ramiro_II_de_León
-Rampón
-Ramón_Berenguer
-Ramón_Berenguer_III
-Ramón_Berenguer_III_de_Provenza
-Ramón_Berenguer_IV
-Ramón_Berenguer_IV_de_Provenza
-Ramón_Borrell
-Ramón_II_de_Cerdaña
-Ramón_Roger_Trencavel
-Ranulf_II_de_Alife
-Rap
-Rastislav
-Raúl_I_de_Francia
-ReactOS
-ReactOS_En
-ReactOs_Explorer
-React_OS
-React_Operating_System
-Rebeliones
-Rebelión
-Rebelión_de_Enrique
-Recesvinto
-Reconquista
-Recopilación
-Reedificación
-Referencias
-Regino_de_Prüm
-Reichenau
-Reims
-Reina_de_Aragón
-Reina_de_Castilla
-Reinado_de_Otón_III
-Reinaldo_de_Châtillon
-Reino
-Reino_Unido
-Reino_de_Aragón
-Reino_de_Asturias
-Reino_de_Galicia
-Reino_de_Jerusalén
-Reino_de_León
-Relación
-Renji
-Renzong
-República_Checa
-Respeto
-Rewind
-Rey
-Rey_Bermudo_II
-Rey_Lobo_de_Murcia
-Rey_Magnus_I_de_Noruega
-Rey_Rodolfo_II_de_Borgoña
-Rey_de_Aragón
-Rey_de_Baviera
-Rey_de_Castilla
-Rey_de_Francia
-Rey_de_Francia_Orientalis
-Rey_de_Hungría
-Rey_de_Inglaterra
-Rey_de_Inglaterra_Fallecimientos
-Rey_de_Italia
-Rey_de_Jerusalén
-Rey_de_León
-Rey_de_Polonia
-Rey_de_Suecia
-Rey_de_los_Pictos
-Reykjavík
-Rheinisches_Fränkisch
-Rhodri_Mawr
-Rhys
-Ribagorza
-Ricardo_Corazón_de_León
-Ricardo_I_Corazón_de_León
-Ricardo_I_de_Inglaterra
-Ricardo_I_de_Normandía
-Richard_Stallman
-Rievaulx_Abbey
-Rio_Ivita
-Rioja
-Ripoll
-Riquilda_de_Polonia
-Robert_de_Craon
-Robert_de_Sablé
-Roberto_Grosseteste
-Roberto_II
-Roberto_II_de_Francia
-Roberto_II_de_Normandía
-Roberto_I_de_Francia
-Roberto_I_de_Normandía
-Roberto_de_Auxerre
-Roberto_de_Hauteville
-Roberto_de_Molesme
-Rodrigo
-Rodrigo_Díaz_de_Vivar
-Rodrigo_de_Castilla
-Rogelio_II_de_Sicilia
-Roger_II_de_Sicily
-Rojo
-Roma
-Romano
-Romano_II
-Romano_III
-Roncesvalles
-Rosellón
-Rosvita
-Ruby
-Ruggero_II
-Ruhr
-Rumanía
-Ruperto_de_Deutz
-Rus
-Rus_de_Kiev
-Rusia
-Rutland
-Ruán
-Rögnvaldsson
-Rügen
-S
-SDL
-SMTP_Server
-SN
-Sabarra
-Sabio
-Saboya
-Sacro_Imperio
-Sacro_Imperio_Romano_Germánico
-Sajonia
-Sajón
-Sal
-Saladino
-Salah_Ad-Din_Yusuf
-Saldaña
-Samstag
-Samurai
-San_Adalberto_de_Praga
-San_Adelaida_de_Italia
-San_Adriano_III
-San_Agatón
-San_Agobardo
-San_Alberto_Magno
-San_Angilberto
-San_Benedicto_II
-San_Eadberto
-San_Esteban_de_Gormaz
-San_Eulogio_de_Córdoba
-San_Federico
-San_Heriberto
-San_Juan_de_Acre
-San_León_II
-San_León_III
-San_León_IV
-San_Martín
-San_Martín_de_Ferrán
-San_Millán_de_la_Cogolla
-San_Nicolás_I
-San_Pascual_I
-San_Rodrigo
-San_Rosendo
-San_Salvador_de_Oviedo_la_Cruz_de_los_Ángeles
-San_Sebastián_ENDOFARTICLE
-San_Sergio_I
-San_Ulrico_de_Augsburgo
-San_Vitaliano
-Sancha
-Sancha_de_León
-Sancho_Garcés_I
-Sancho_Garcés_II
-Sancho_Garcés_III_de_Navarra
-Sancho_Garcés_I_de_Navarra
-Sancho_García
-Sancho_I
-Sancho_III
-Sancho_III_de_Navarra
-Sancho_I_de_León
-Sancho_I_de_Portugal
-Sancho_I_de_Provenza
-Sancho_Ordóñez
-Sancho_VI
-Sancho_VII
-Sancho_VI_de_Navarra
-Sancho_de_Castilla
-Sanggallerdüütsch
-Sanjo
-Sankt_Gallen
-Santa_María_de_el_Castillo_de_Saldaña
-Santarém
-Santiago
-Santiago_de_Compostela
-Santo
-Saxo_Grammaticus
-Schaffhausen
-Schwyzerdütsch_Se
-Se
-Sebastian_Brant
-Segovia
-Segunda_Cruzada
-Segunda_Internacional
-Segundo_Concilio_de_Letran
-Según
-Seimei
-Semmel
-Semuel_Ibn_Nagrella
-September
-Sergio_I
-Sergio_II
-Sergio_III
-Sergio_IV
-Server
-Servidor_HTTP_Cherokee
-Sevilla
-Señorío_de_Vizcaya
-Shi'a
-Shogún
-Shpríjst
-Sibila_de_Jerusalén
-Sicardo_de_Benevento
-Sicilia
-Sico_I._Final
-Sico_I_de_Benevento
-Sigerico_el_Serio
-Sigmundur_Brestisson
-Silesia
-Silvestre_II
-Simancas
-Siria
-Sisinio
-Sistema
-Sitio
-Sitio_de_el_Proyecto_Apache
-Situación
-Skald
-Skalden
-Snorri_Sturluson
-Sobre_La_Internacional
-Solaris
-Somalia
-Song
-Songbird
-Sonnabend
-Soporte
-Spanisch
-Sprichst
-Spätjahr
-Spätling
-St
-Staan
-Stade
-Stefan_Nemanja
-Stein
-Stück
-Suabia_Bávara
-Succesión
-Sucesión_de_el_Papa_San_León_IV
-Suecia
-Suero_Gundemáriz
-Sufi
-Suger
-Suiza
-Sulaiman
-Sulayman
-Suniefredo
-Sunnudagur
-Support
-Sur
-Sur_de_Alemania
-Sur_de_Brandeburgo
-Sur_de_Renania
-Susie
-Suñer_I
-Svend_Forkbeard
-Svend_III
-Sviatopolk
-Sviatoslav_I
-Svold
-Sweyn_I_de_Dinamarca
-Sächsisch
-Séfer
-Sínodo_de_Whitby
-Südtirol
-Sütterlin
-TLS
-Tahir
-Tailandia
-Taira
-Taizong
-Taizú
-Tancredo_de_Hauteville
-Tang
-Tang_Xian_Zong
-Tani
-Tarasio
-Teclado
-Templo_III
-Teoderico_III
-Teodora_Porfirogeneta
-Teodoro_II
-Tercera_Cruzada
-Tercera_Internacional
-Teresa_de_León
-Terranova
-Teruel
-Teutonia
-Teófano_Skleraina
-Thomas_Becket
-Thoros_II
-Tiberio_III
-Tierra
-Tierra_Prometida
-Tierra_Santa
-Tikal
-Tillería
-Tiro
-Tirol_Meridional
-Tirol_de_el_Sur
-Tisch
-Toba
-Toledo
-Tolosa
-Tomás_de_Aquino
-Torre_de_Pisa
-Toscana
-Traba
-Trabajo
-Traducciones
-Traducción
-TransGaming
-Tratado_Gramatical
-Tratado_de_Aquisgrán
-Tratado_de_Verdún
-Tratado_de_Wallingford
-Tratado_de_Wedmore
-Travailleurs
-Treviño
-Tribunal_de_el_Sena
-Trier
-Tropas
-Trulano
-Tréveris
-Trípoli
-Tudela
-Tughril_II
-Turquía
-Tíbet
-UNSa
-UTUTO
-UTUTO-Get
-UTUTO-R
-UTUTO-e
-UTUTO_XS
-Ubayd_Allah
-Ulrico_de_Augsburgo
-Umlaut
-Unicode
-Universidad_de_Iowa
-Universidad_de_Islandia
-Universidad_de_Salamanca
-Unix
-Unión_Europea
-Unión_Soviética
-Unión_de_Kalmar
-Uqlidisi
-Urbano_III
-Urgel
-Uri
-Urnerdüütsch
-Urraca_I
-User_Mode_DLLs
-Usuarios
-Utrecht
-Ututo
-Ututo-e
-VMware
-Valais
-Valdemar_I_de_Dinamarca
-Valencia
-Valentín
-Valladolid
-Valle_de_Arán
-Venecia
-Veneciano
-Ventajas
-Versiones_de_La_Internacional
-Versión
-Veruela
-Vetur
-Vietnam
-Vikinga
-Vikingos
-Vikingos_de_Rorik
-Villamelendro
-Vimara_Pérez
-Vincent_de_Beauvais
-Vinhos
-Vinland
-Viseo
-Vitaliano
-Vitoria
-Vivo
-Vizcaya
-Vizconde_de_Cerdaña
-Vladimir
-Vladimir_I_de_Kiev
-Vocabulario
-Vocales
-Vogelweide
-Volga
-Vor
-Vorarlberg
-Voto_de_Santiago
-Vsevolod_II_de_Kiev
-Véase
-Ví
-Vó
-W
-Walafrido_Strabo
-Wallisertiitsch
-Walther
-Wamba
-Wang_Anshi
-Wang_Changling
-Wang_Wei
-Wang_Yi-Ch'eng
-Wasil
-WebDAV
-Weggli
-Wie
-Wifredo_II_Borrell
-Wikipedia
-Wikisource
-Wilfredo_I
-Wilfredo_II_Borrell
-Wilfredo_el_Velloso
-Wilibrodo
-Willigis
-Winchester
-Windows
-Windows_Explorer
-Windows_ME
-Windows_NT
-Windows_Vista
-Windows_XP
-Wine
-Wine_API
-Wine_Development
-Wine_Doors
-Wine_Is_Not
-Winsock_TCP
-Witiza
-Wo
-Wolfram
-WordReference
-Wu_Zetian
-Wuddel
-Wulfredo
-Wurzel
-Wuzong
-Würzburg
-X._Soporte
-XIII_Concilio_de_Toledo
-XII_Concilio_de_Toledo
-XIV_Concilio_de_Toledo
-XS
-XVII
-XVIII
-XVII_Concilio_de_Toledo
-XVI_Concilio_de_Toledo
-XV_Concilio_de_Toledo
-Xin_Qiji
-Xuanzong_II
-Xue
-Ya
-Ya_que
-Yaroslav_I_el_Sabio
-Yehuda
-Yoritomo
-Yoriyoshi
-York
-Yorkshire
-Yosef
-Yoshitsune
-Yoshitsune_Minamoto
-Yusuf
-Z
-Zamora
-Zaragoza
-Zelanda
-Zengi
-Zett
-Zhenzong
-Zobeida
-Zoe
-Zúrich
-Zürich
-Züridütsch
-ab
-abad
-abadesa
-abat
-abate
-abbasida
-abbasí
-abusos
-acción
-acento
-aceptación
-acrónimo
-actividades
-actor
-actriz
-acuerdo
-adaptación
-adición
-adiós
-adjetivo
-adjetivos
-afiliación
-afueras
-ai
-aire
-akra
-al-Askari
-al-Hakim
-al-Karim
-al-Malik
-al-Mustain
-al-Mutarrif
-al-Qurashi
-alcalde
-alcance
-alemanes
-alemán
-alemán-neerlandés
-alfabeto
-algoritmo
-aliados
-alianza
-alimentación
-almirante
-almohades
-almorávides
-alt
-alteración
-alternativas
-altoalemanes
-alveolar
-alza
-alófonos
-amante
-ambiente
-anales
-and
-antipapa
-análisis
-ap
-aparición
-apellido
-aplicaciones
-aplicación
-apoyo
-aprendizaje
-aproximación
-aragonensis
-arbitrariedades
-archivos
-armada
-armaduras
-armario
-armonio
-arquitectura
-artículo
-arzobispo
-asedio
-asentamientos
-asimilación
-aspectos
-asteroide
-astrónomo
-ataque
-atmen
-atque
-audio
-aullido
-aumento
-autenticación
-automóvil
-autor
-autores
-autoridad
-ayuda
-ayyubí
-año
-años
-b
-bab
-bajo
-bajoalemanes
-banda
-bandera
-barcos
-bascones
-base
-bases
-batalla
-baño
-beatissimarum
-ben
-berberiscos
-bereber
-beta
-biblia
-biblioteca
-bibliotecas
-bienes
-biografía
-birginum
-bist
-bizantinos
-bless
-bloqueo
-boda
-borde
-brisa
-británicos
-butter
-bís
-búlgaros
-búsqueda
-caballero
-cacique
-calendario
-califa
-califato
-caligrafía
-camaleón
-cambio
-cambios
-campañas
-campos
-canciller
-cancillería
-canciones
-canción
-cantidad
-cantones
-canvios
-capa
-capilla
-capital
-capitular
-caracter
-caracteres
-característica
-características
-cargador
-carpeta
-carta
-carácter
-casa
-caso
-casos
-castellano
-castillo
-castillos
-catedral
-católico
-caudillo
-celibato
-ceniza
-censo
-centrales
-centros
-checo
-chino
-chispas
-chiíes
-chorlito
-científico
-cine
-cirugía
-cita
-ciudad
-ciudadanos
-ciudades
-clan
-clase
-clasificación
-clero
-cliente
-clon
-co-emperador
-co-príncipe
-coalición
-codificación
-cola
-colonia
-colonias
-colonizador
-colonos
-com
-comandante
-comarca
-comarcas
-comercio
-comienzo
-comienzos
-comp
-compatibilidad
-compañeros
-compañía
-compañías
-complejidad
-complemento
-comportamientos
-compositor
-compositora
-compresión
-comunicaciones
-comunicación
-comunicados
-comunidades
-comunión
-concejos
-concepto
-conceptos
-condado
-condados
-conde
-condes
-condesa
-condicional
-condiciones
-condición
-configuración
-conflicto
-conjugación
-conjunto
-connotación
-conquista
-conquistador
-conserva
-conservación
-consonante
-consonantes
-consorte
-conspiración
-constelación
-construcción
-consultoría
-contenido
-contexto
-continente
-continuación
-continuidad
-continuum
-contra
-contrapartida
-contrario
-contraste
-contribuciones
-contribuidor
-contribuidores
-control
-controladores
-controles
-convenciones
-cooperación
-copia
-coral
-cordobés
-corona
-correo
-corrida
-cortes
-costa
-costas
-creación
-creadores
-creyentes
-cristianismo
-cronista
-cruzadas
-cruzados
-crítica
-cuchillo
-cuenta
-cuidado
-culto
-cuota
-curia
-curiosidad
-cámara
-cármatas
-códice
-código
-d
-d'Inglaterra
-daglegt
-dama
-danesa
-danés
-datos
-debate
-declaración
-declinación
-decreto
-decretos
-defensa
-definición
-deflate
-delicias
-demanda
-dental
-dentales
-departamento
-derecha
-derivado
-des
-desarrolladora
-desarrolladores
-desarrollo
-descendientes
-descenso
-descripción
-descubrimiento
-despertar
-desuso
-desventajas
-detalles
-dialecto
-dialectos
-dibujante
-diccionarios
-dicha
-dieta
-diferencias
-dificultad
-dificultades
-dinastía
-dintel
-dinámica
-diptongo
-diptongos
-diputados
-direcciones
-disco
-discos
-discusiones
-discusión
-diseño
-dispersión
-disposiciones
-disposición
-dispositivos
-distancia
-distinción
-distribuciones
-distribución
-distribuidoras
-distro
-diálogo
-do
-documentación
-documento
-dominio
-don
-doña
-drivers
-du
-duelo
-dulces
-duque
-duración
-día
-días
-dígrafo
-edad
-ediciones
-edición
-edictos
-ei
-eignarfall
-eilífu
-eitt
-ej.
-ejecución
-ejemplares
-ejemplo
-ejercicio
-ejercicios
-ejército
-ejércitos
-elección
-elemento
-elementos
-ellefu
-embargo
-emigración
-emir
-emperador
-emperadores
-emperatriz
-empereador
-empleados
-empresa
-empresas
-emulador
-emuladores
-enciclopedista
-enfermos
-enk
-enlaces
-enseñanza
-entorno
-entornos
-entradas
-equipo
-equivalente
-era
-ericson
-erizo
-error
-errores
-ert
-erupción
-escalada
-escaldos
-escandinava
-escenario
-esclavitud
-esclavo
-escoliasta
-escotos
-escritor
-escritora
-escritorio
-escritorios
-escritura
-escuela
-escuelas
-escáneres
-esfuerzo
-esfuerzos
-esloveno
-español
-españoles
-especificaciones
-espiga
-esplendor
-esposa
-esposas
-estabilidad
-estadista
-estado
-estados
-estamento
-estamentos
-estandarte
-estreno
-estructura
-estudio
-estándar
-estándares
-estática
-etapas
-etnia
-europeos
-evolución
-excepciones
-excepción
-existencia
-expediciones
-expedición
-exploración
-explorador
-extensión
-extinción
-f
-facilidad
-fallecimiento
-falta
-fama
-familia
-fara
-fecha
-ficheros
-filosofía
-filólogo
-filósofo
-fimm
-fimmtíu
-fin
-final
-financiación
-fines
-fjögur
-fjörutíu
-flexión
-flota
-fonema
-fonemas
-fonología
-forma
-formación
-formas
-formato
-formatos
-foro
-fortaleza
-fotos
-fram
-francesas
-francos
-francés
-franja
-frases
-frisón
-frontera
-fronteras
-fruto
-fuego
-fuegos
-fuente
-fuero
-fueros
-fuerzas
-funcionalidad
-funcionamiento
-funcionario
-funciones
-función
-funda
-fundación
-fundador
-fusión
-futuro
-fyrirgefum
-fínt
-fórmula
-gallegos
-garantía
-gasto
-generales
-gente
-germanohablantes
-germánico
-gestor
-giros
-gjóla
-gnome
-gobernador
-gobernante
-gobierno
-golpes
-gott
-gracia
-gracias
-grafía
-gramática
-gramático
-grande
-griego
-groenlandia
-groot
-grupo
-grupos
-guantes
-gue
-guerra
-gusano
-gut
-género
-géneros
-góla
-güe
-habilidad
-habitantes
-habla
-hablante
-hablantes
-hallazgo
-hebreo
-hecho
-heit
-heißt
-heiður
-heiðursmerki
-heladera
-heldur
-heredero
-heridas
-hermana
-hermanastro
-hermano
-hermanos
-herramientas
-hija
-hijo
-hijos
-himno
-himnum
-hindú
-hip
-hispano-hablante
-hispanojudio
-hispanojudío
-historia
-historiador
-historiadora
-hné
-hnífur
-hogares
-holandés
-hombre
-hombres
-honor
-hop
-hora
-humanidad
-hásra
-húngaro
-i
-icewm
-idioma
-idiomas
-iglesia
-igualdad
-illu
-imagen
-impacto
-imperio
-implementación
-importancia
-impresión
-impresoras
-impuestos
-imágenes
-imán
-in
-incendio
-inclusión
-incorporación
-incursión
-indicativo
-indios
-infancia
-infanta
-infante
-infijo
-infinitivo
-inflexión
-influencia
-información
-infraestructura
-ingenieros
-ingeniería
-inglés
-ingresos
-inicio
-inmigrantes
-innovación
-inscripción
-instalación
-intento
-interacción
-interfaz
-internacional
-internet
-interoperabilidad
-interpretación
-interrupciones
-interés
-intrigas
-introducción
-invasión
-invasores
-inventos
-invierno
-iraní
-irlandés
-is
-isla
-islandeses
-islandés
-isoglosas
-ist
-italia
-italiano
-iða
-j
-jarl
-jefe
-ji
-joven
-jubileo
-juegos
-jurista
-já
-jáist
-jóvenes
-k
-kan
-karl
-keit
-kernel
-king
-kjóla
-kona
-kóla
-labrador
-laderas
-lado
-lagartilla
-latín
-laust
-lazo
-lazos
-lecciones
-lector
-leif
-lengua
-lenguaje
-lenguas
-lepra
-letra
-letras
-levantamientos
-leyes
-liberación
-libertad
-libre
-librerías
-libro
-licencia
-licencias
-linaje
-lingüistas
-lipra
-listas
-literaturas
-litka
-live
-llamada
-llamadas
-llamas
-lobo
-locales
-localidad
-localidades
-loft
-lombardo
-lombardos
-longitud
-lucro
-lugar
-lugares
-luxemburgués
-líder
-límites
-línea
-líneas
-löpp
-lütt
-m
-mac
-madre
-maestre
-maestro
-magiares
-mando
-manejador
-manejo
-manera
-mano
-manos
-mantenedor
-mantequilla
-mar
-marca
-marco
-marido
-marinos
-marqués
-martirio
-masculino
-matemático
-materia
-material
-mayordomo
-mayoría
-mayúscula
-maðkur
-mecanografía
-medalla
-medida
-mejora
-mejoras
-mención
-mensajes
-menundo
-mercado
-merki
-mesa
-meses
-mesita
-metafonía
-miembro
-miembros
-migraciones
-miles
-milljón
-millones
-minoría
-misión
-mod_aspdotnet
-mod_auth_ldap
-mod_deflate
-mod_mono
-mod_perl
-mod_php
-mod_proxy_ajp
-mod_ruby
-modalidades
-modems
-modificaciones
-modo
-modos
-momentos
-monarca
-monasterio
-monasterios
-monedas
-monje
-monjes
-monoptongos
-montador
-montaña
-montañas
-monte
-moros
-motivo
-motores
-movimiento
-muerte
-muestra
-mujer
-multiplataforma
-mundo
-musulmanas
-musulmanes
-mutación
-myjmk
-mártir
-médico
-módulo
-módulos
-música
-músico
-n
-nacimiento
-nacio
-naciones
-nación
-nasal
-nasales
-nativas
-nativos
-naturologo
-navarras
-navegador
-navegadores
-navegantes
-naves
-necesidades
-neerlandés
-nefnifall
-negociado
-nei
-neologismo
-neutros
-nicht
-nieto
-nietos
-nivel
-niño
-niños
-no
-nobleza
-noche
-noches
-noción
-nombre
-nombres
-nominativo
-nonas
-normanda
-normandos
-normas
-norte
-noruego
-noruegos
-notificación
-numerales
-níu
-nórdico
-nótt
-núcleo
-número
-números
-obispado
-obispados
-obispo
-objeto
-objetos
-obra
-obras
-ocasiones
-occidente
-oclusivas
-ocupación
-oeste
-oficialidad
-oficio
-og
-omeyas
-opción
-oportunidades
-oposición
-optimizaciones
-optimización
-oraciones
-oración
-orden
-organizaciones
-organización
-organizadores
-origen
-orina
-ortografía
-oss
-otoño
-p
-padre
-paisaje
-palabra
-palabras
-palacio
-palio
-panecillo
-papa
-papado
-papeles
-paquetes
-paradigma
-parches
-pares
-pariente
-parte
-participación
-participio
-partidos
-pasado
-pasiva
-patriarca
-patrón
-pausa
-paz
-país
-países
-pdf
-película
-películas
-península
-pequeño
-periódicos
-persona
-personas
-período
-php
-pictos
-pie
-piedra
-piratas
-planeta
-plataformas
-plaza
-plural
-poblaciones
-población
-poder
-poemas
-poeta
-poetisa
-polaco
-político
-porción
-portabilidad
-porte
-portugueses
-posibilidad
-posición
-posterioridad
-postura
-potestas
-preaspiradas
-preaspirados
-preceptos
-precios
-prefijos
-premio
-premisa
-preocupación
-preposición
-presencia
-presente
-pretérito
-primavera
-princeps
-princesa
-principado
-principio
-prisioonero
-problema
-problemas
-procesador
-procesadores
-proceso
-procesos
-productividad
-producto
-productos
-profeta
-profetisa
-programa
-programación
-programadores
-programas
-pronombre
-pronombres
-pronunciaciones
-pronunciación
-propietario
-prosa
-protocolo
-protocolos
-proverbios
-provincia
-provinicia
-proyecto
-proyectos
-práctica
-préstamos
-príncipe
-pueblo
-pueblos
-puerto
-punk
-punto
-puntos
-páginas
-pólvora
-público
-quem
-querella
-r
-radiotelevisión
-rama
-ramos
-rap
-rasgo
-rasgos
-rastreo
-ratón
-razones
-razón
-raíz
-realidad
-realizador
-rebelde
-rebelión
-recibimiento
-reconocimiento
-reconquista
-recursos
-red
-redes
-redistribución
-reescritura
-reforma
-reformador
-regiones
-región
-reglas
-regnorum
-regresos
-reimplementación
-reina
-reinado
-reino
-reinos
-relación
-rendición
-rendimiento
-reparto
-repercusión
-repertorio
-repositorio
-representación
-representantes
-reproductor
-reputación
-rescate
-residuo
-resistencia
-respeto
-responsabilidad
-responsables
-restauración
-resto
-restos
-resultado
-retirado
-reunión
-revolucionarios
-rey
-reyes
-ritmo
-rocas
-rodilla
-romanche
-router
-rético
-ríki
-río
-ríos
-sagas
-saludo
-santa
-santas
-santo
-sarracenos
-scharfes
-schnufe
-sección
-secuencia
-sede
-seguidores
-segunda
-segundo
-seguridad
-sem
-separación
-serie
-servidor
-servidores
-servlets
-sex
-señor
-sh
-shpánish
-siglo
-siglos
-significado
-significados
-signo
-similitudes
-simulación
-sistema
-sistemas
-sitio
-sitios
-situaciones
-situación
-sjálfur
-skuldunautum
-sms
-soberanía
-sobrino
-software
-solución
-sonido
-sonidos
-sonorantes
-sonur
-soporte
-sordas
-ss
-standa
-sterk
-sterkt
-subdiálectos
-subgrupo
-sublevación
-subordinada
-subsistema
-subsistemas
-sucesor
-sudoeste
-suecos
-sufijo
-sufijos
-suicidio
-suite
-suizo
-suizos
-sujeto
-sultán
-sumisión
-suní
-suníes
-supernova
-supino
-supletismo
-supresión
-sur
-sureños
-sustantivo
-sustantivos
-sílaba
-sílabas
-símbolos
-sórabo
-t
-tabla
-takk
-talento
-talleres
-tao
-tardes
-teatro
-techo
-tecla
-tecnología
-telescopio
-televisor
-teléfono
-temas
-templo
-tendencia
-tenencia
-tercera
-terminal
-terremoto
-terreno
-territorio
-territorios
-testimonio
-texto
-teólogo
-thunking
-tiempo
-tiempos
-tierra
-tipo
-tipos
-titulado
-topónimo
-toros
-tos
-trabajadores
-trabajo
-traducciones
-traducción
-traductor
-transición
-tratado
-tratados
-tribu
-trocito
-trono
-tropas
-trovador
-trovadores
-tubo
-turcos
-tuttugu
-término
-términos
-título
-tíu
-tólf
-um
-ung
-unidad
-unidades
-universidad
-upp
-uppgötva
-uretra
-uso
-usos
-usuarios
-valle
-variaciones
-variante
-variedad
-variedades
-varón
-vecinos
-veikt
-velares
-vendedores
-ventajas
-ventanas
-verano
-verbo
-verbos
-verdad
-versiones
-versión
-versos
-vestido
-vestidos
-vez
-viaje
-viajero
-viajeros
-victoria
-vida
-viejo
-vikingos
-villa
-villas
-virgen
-visigodo
-visigodos
-visor
-vizconde
-vocabulario
-vocal
-vocales
-voces
-voluntarios
-vor
-vort
-vorum
-vulnerabilidades
-vía
-víspera
-vónzt
-vórtice
-windows
-wine
-wohnst
-women
-worden
-yidis
-z
-zanahoria
-zapatos
-zar
-zona
-zonas
-¦a'a¨u'im
-Á
-África
-Ágúst
-Árabes
-Árstíðir
-Áuf_Vídersen
-É
-Égica
-Égica_de_España
-Énglish
-Évora
-Í
-Íj
-Ísh
-Íñigo_Arista
-Ó
-Óengus_II
-Ú
-Única
-Ü
-Þriðjudagur
-á
-álgebra
-ált
-ánimo
-árabes
-área
-áreas
-ást
-ávaros
-äu
-ætla
-ç
-época
-éxito
-ín
-íslensk
-íslenska
-íslenskur
-íst
-órgano
-þak
-þitt
-þolfall
-þrettán
-þrjátíu
-þú
-þúsund
+4123	persona
+4123	personas
+9457	objetos
+10572	materia
+13700	motivo
+16185	estado
+16185	estados
+17954	grupo
+17954	grupos
+18916	relación
+20056	cantidad
+22246	acción
+22878	interacción
+27910	regresos
+29442	adiós
+31327	emigración
+34968	expediciones
+34968	expedición
+42411	error
+42411	falta
+51907	embargo
+52883	ocupación
+54499	conquista
+61101	reconquista
+61322	ejecución
+61322	implementación
+74431	expulsión
+77986	tiro
+89520	libre
+95235	fusión
+98007	descubrimiento
+98007	hallazgo
+111872	modo
+117820	aceptación
+118873	elección
+128096	variaciones
+131763	transición
+144739	suicidio
+153747	fundación
+153919	instalación
+154800	fundación
+155548	introducción
+159157	mejora
+159157	mejoras
+160202	desarrollo
+173345	reedificación
+198579	viaje
+205135	distribuciones
+205135	distribución
+206842	rastreo
+209737	escalada
+213518	movimiento
+224643	giros
+237382	dispersión
+239677	inclusión
+246210	separación
+247514	división
+248000	cisma
+248167	cortes
+260095	inflexión
+261466	actividades
+289269	juegos
+328496	ediciones
+358063	interpretación
+367201	bloqueo
+377835	trabajo
+378579	funcionalidad
+385376	posición
+402867	literatura
+402867	literaturas
+405074	codificación
+409314	esfuerzo
+409314	esfuerzos
+411168	dificultad
+411168	dificultades
+415881	práctica
+422134	análisis
+426345	cuenta
+427077	censo
+428745	cuidado
+462318	oficio
+468909	proyecto
+468909	trabajo
+469856	ejercicios
+471060	misión
+472484	invasión
+486869	simulación
+503611	intento
+508925	empresa
+508925	empresas
+508925	proyecto
+508925	proyectos
+510453	reforma
+517391	tenencia
+524093	conservación
+567704	enseñanza
+568196	curso
+571937	lecciones
+574678	formación
+574902	ejercicio
+574902	ejercicios
+583085	creación
+585093	construcción
+594989	diseño
+595769	programación
+596202	escritura
+601272	neologismo
+601385	inventos
+604336	búsqueda
+605730	uso
+605730	usos
+607299	aplicaciones
+607299	aplicación
+607693	ingeniería
+607693	tecnología
+610417	batalla
+617685	levantamientos
+617685	rebelión
+617685	sublevación
+622063	cruzada
+622063	cruzadas
+625655	ataque
+626011	guerra
+627831	incursión
+633825	exploración
+633825	reconocimiento
+635718	fuego
+653558	clasificación
+657384	continuación
+669358	comunión
+691886	celibato
+694694	abusos
+695744	asedio
+699519	asimilación
+702192	redistribución
+706993	comercio
+711063	mercado
+712138	financiación
+719653	cambios
+727594	migraciones
+731811	responsabilidad
+744204	supresión
+746480	internacionalización
+760027	duelo
+760227	golpes
+760227	impacto
+779286	cooperación
+782440	ayuda
+788240	apoyo
+788240	ayuda
+792210	comportamientos
+804120	incorporación
+804778	participación
+1136299	aquila
+1195934	geco
+1214598	camaleón
+1369952	eider
+1436335	gusano
+1535151	chorlito
+1623366	lobo
+1637880	león
+1661550	pie
+1665222	cola
+1712223	apis
+1788622	lagartilla
+1832174	ratón
+1947248	taira
+1965307	mono
+1967203	hombres
+2035234	argentina
+2159867	complemento
+2165603	adición
+2206789	archivos
+2207321	zonas
+2222774	vestido
+2222774	vestidos
+2253645	cuba
+2255918	soporte
+2264436	baño
+2314279	bibliotecas
+2314279	librerías
+2351230	corrida
+2363665	armario
+2372560	cantones
+2383458	automóvil
+2405099	catedral
+2420001	cámara
+2421221	cancillería
+2421451	lucerna
+2422521	capilla
+2476046	artículo
+2479780	elemento
+2481557	procesador
+2481557	procesadores
+2488140	conector
+2492359	controladores
+2498378	copia
+2518101	creación
+2544051	damasco
+2551913	defensa
+2560468	dispositivos
+2576928	fuente
+2580665	pantalla
+2641840	entradas
+2644452	equipo
+2661119	instalación
+2672959	fez
+2678015	ficheros
+2680856	visor
+2683054	fuego
+2683054	fuegos
+2685797	hogares
+2692272	bandera
+2716224	fuerte
+2716453	foro
+2720094	armaduras
+2757746	guantes
+2767450	gráficos
+2791525	esposas
+2799757	armonio
+2807240	dintel
+2837386	casa
+2851548	herramientas
+2855978	infraestructura
+2862602	interfaz
+2865563	innovación
+2886812	tecla
+2887166	teclado
+2893138	cuchillo
+2898925	lazos
+2913016	capa
+2927421	vía
+2954440	imán
+2973327	material
+3007781	modems
+3008618	módulo
+3008618	módulos
+3010416	monasterio
+3010416	monasterios
+3017435	motores
+3044012	lazo
+3074890	paquetes
+3080223	castillo
+3080223	castillos
+3080223	palacio
+3094749	parches
+3112307	disco
+3113185	fotos
+3135441	templo
+3142093	plataformas
+3159967	carpeta
+3168190	centrales
+3172719	impresión
+3173458	impresoras
+3189831	depurador
+3218772	recibimiento
+3227261	estreno
+3229963	representación
+3230402	reproductor
+3245327	calzada
+3250224	techo
+3279906	escáneres
+3281918	escuela
+3281918	escuelas
+3296309	segunda
+3296615	escritorio
+3296615	escritorios
+3311748	funda
+3318070	barcos
+3318070	naves
+3322000	zapatos
+3376587	bengala
+3397314	escenario
+3401168	estandarte
+3431121	fortaleza
+3431817	construcción
+3435902	contenido
+3438292	ante
+3439283	suite
+3444976	soporte
+3459836	sistema
+3459836	sistemas
+3459836	unidad
+3459836	unidades
+3461269	mesa
+3478277	teléfono
+3480713	telescopio
+3482557	televisor
+3488343	terminal
+3491295	teatro
+3499424	trono
+3547838	tubo
+3601856	giralda
+3619904	ventanas
+3632186	talleres
+3642179	característica
+3648054	disposiciones
+3648054	disposición
+3653606	vida
+3681444	arbitrariedades
+3683012	presencia
+3688685	marca
+3704727	facilidad
+3726488	igualdad
+3727288	similitudes
+3731027	diferencias
+3742947	complejidad
+3748938	portabilidad
+3750498	estabilidad
+3776178	esplendor
+3796381	don
+3796381	doña
+3824809	control
+3828648	fuero
+3841705	sumisión
+3841910	rendimiento
+3856995	forma
+3856995	formas
+3856995	manera
+3892643	sonido
+3892643	sonidos
+3908541	gracia
+3908541	gracias
+3929458	resistencia
+3931458	valencia
+3937076	vulnerabilidades
+3938674	secuencia
+3940255	posterioridad
+3943113	duración
+3952527	configuración
+3965003	postura
+3967504	distancia
+3971048	separación
+3972490	medida
+3990394	número
+3991218	mayoría
+3991813	extensión
+3992325	límites
+3993027	alcance
+3993027	marco
+3995742	longitud
+4010532	productividad
+4011535	funciones
+4011535	función
+4015405	recursos
+4015637	ayuda
+4015637	soporte
+4016440	ventajas
+4019795	bienes
+4021143	desventajas
+4025511	importancia
+4027354	repercusión
+4041746	poder
+4043948	influencia
+4044314	fuerzas
+4045365	control
+4045365	controles
+4045518	dominio
+4057168	sistema
+4059885	zona
+4059885	zonas
+4111451	órgano
+4114572	lengua
+4114572	lenguas
+4270496	uretra
+4311223	mano
+4311223	manos
+4311787	derecha
+4319321	rodilla
+4349777	capacidad
+4350890	direcciones
+4355268	talento
+4360292	habilidad
+4381416	convenciones
+4392100	curiosidad
+4392426	interés
+4394770	problema
+4394770	problemas
+4396152	traba
+4400680	equivalente
+4403919	fijación
+4409604	excepciones
+4409604	excepción
+4423455	organización
+4438179	aprendizaje
+4463475	alternativas
+4463475	opción
+4467719	estudio
+4471938	aproximación
+4480764	datos
+4481751	detalles
+4482936	verdad
+4483764	ej.
+4483764	ejemplo
+4483764	ejemplos
+4485976	base
+4485976	bases
+4493671	concepto
+4493671	conceptos
+4494358	noción
+4496504	clase
+4496504	tipo
+4496504	tipos
+4501800	normas
+4501800	reglas
+4502720	algoritmo
+4504076	características
+4504455	característica
+4504455	características
+4504455	rasgo
+4504455	rasgos
+4505726	aspectos
+4505726	lado
+4505726	sección
+4510165	producto
+4510165	productos
+4515461	final
+4515461	término
+4515709	elementos
+4529867	errores
+4533598	programas
+4540345	intrigas
+4540636	conspiración
+4543461	reglas
+4546812	núcleo
+4549310	estándar
+4551473	imagen
+4551473	imágenes
+4552661	papeles
+4554317	estructura
+4559362	ejemplo
+4559702	paradigma
+4563224	filosofía
+4566113	culto
+4568501	posibilidad
+4588033	objeto
+4590895	letras
+4594727	campos
+4603367	álgebra
+4608343	estadísticas
+4632532	cirugía
+4659700	arquitectura
+4675910	demografía
+4686855	gramática
+4687416	fonología
+4697988	tendencia
+4725616	tao
+4728675	comunicaciones
+4728675	comunicación
+4731849	página
+4731849	páginas
+4735661	cine
+4738466	periódicos
+4742189	llamada
+4742189	llamadas
+4744689	radiotelevisión
+4745575	audio
+4748361	lenguaje
+4749988	contexto
+4750162	oración
+4750884	palabra
+4750884	palabras
+4753435	plural
+4754686	préstamos
+4755856	sílaba
+4755856	sílabas
+4758399	derivado
+4758968	término
+4760894	prefijos
+4761096	sufijo
+4761096	sufijos
+4761340	infijo
+4761687	sujeto
+4762523	caso
+4762523	casos
+4762738	nominativo
+4767390	infinitivo
+4768171	sustantivo
+4768171	sustantivos
+4768298	nombres
+4769237	verbo
+4769237	verbos
+4769821	adjetivo
+4769821	adjetivos
+4771731	artículo
+4772195	preposición
+4772420	pronombre
+4772420	pronombres
+4774380	número
+4774380	números
+4775802	género
+4775802	géneros
+4776306	masculino
+4776454	neutros
+4776611	tiempos
+4776839	presente
+4777587	participio
+4778525	nombre
+4778525	nombres
+4779688	apellido
+4782793	título
+4783039	topónimo
+4788790	ortografía
+4790774	código
+4806575	prosa
+4807372	poemas
+4807372	versos
+4816275	texto
+4825639	mecanografía
+4826409	escritura
+4826894	caligrafía
+4828090	inscripción
+4829374	códice
+4830233	adaptación
+4831824	libro
+4837558	vocabulario
+4837766	diccionario
+4837766	diccionarios
+4845672	traducciones
+4845672	traducción
+4847359	biblia
+4855826	padrenuestro
+4859217	historial
+4859637	documentación
+4859637	documento
+4860883	fueros
+4866394	listas
+4866394	repertorio
+4876596	alfabeto
+4883282	libro
+4890314	protocolo
+4890314	protocolos
+4890744	biografía
+4904589	leyes
+4909380	decreto
+4909380	decretos
+4916758	licencia
+4916758	licencias
+4927772	software
+4930129	unix
+4930290	programa
+4930290	programas
+4946463	recopilación
+4948541	ejemplares
+4948748	edición
+4949838	contenido
+4949838	mensajes
+4950638	temas
+4951584	significado
+4951584	significados
+4952685	connotación
+4960631	película
+4960631	películas
+4968082	correo
+4968965	carta
+4975688	saludo
+4977171	información
+4979062	formato
+4979062	formatos
+4991006	preceptos
+5000141	código
+5009327	crónica
+5010399	comunicados
+5012271	garantía
+5016741	ánimo
+5019162	referencias
+5020360	honor
+5029668	medalla
+5032854	crítica
+5040541	declaración
+5042568	especificaciones
+5043361	proclamación
+5046501	fórmula
+5048562	testimonio
+5051824	motivo
+5053336	solución
+5054071	definición
+5056590	comunicados
+5060820	premisa
+5063005	historia
+5068012	cita
+5068012	mención
+5069358	referencias
+5072418	acuerdo
+5072928	condiciones
+5072928	términos
+5074858	tratado
+5074858	tratados
+5080756	problema
+5090163	porte
+5097156	símbolos
+5106558	signo
+5107649	carácter
+5107649	grafía
+5112234	mayúscula
+5113097	fuente
+5115901	caracteres
+5115901	letra
+5115901	letras
+5117158	dígrafo
+5117823	beta
+5128468	marca
+5139264	do
+5139941	la
+5152096	corona
+5153478	muestra
+5156358	funciones
+5165229	java
+5166952	c
+5167497	idioma
+5167497	idiomas
+5167497	lengua
+5167497	lenguas
+5182540	apache
+5192706	chino
+5206977	checo
+5207068	esloveno
+5207628	búlgaros
+5208500	germánico
+5209017	inglés
+5211602	alemanes
+5211602	alemán
+5212011	yidis
+5212625	holandés
+5212625	neerlandés
+5213933	islandeses
+5213933	islandés
+5214053	noruego
+5214053	noruegos
+5214484	suecos
+5218185	magiares
+5220091	irlandés
+5221640	latín
+5224314	portugueses
+5224439	gallegos
+5224721	castellano
+5224721	español
+5231341	griego
+5261047	frases
+5261047	línea
+5261047	líneas
+5265213	obras
+5266809	música
+5275813	himno
+5276214	coral
+5276583	la_internacional
+5277178	obra
+5277178	obras
+5284501	canciones
+5284501	canción
+5301395	acento
+5306196	acrónimo
+5307729	pie
+5319899	habla
+5319899	hablas
+5321341	sonido
+5321341	sonidos
+5321825	fonema
+5321825	fonemas
+5322010	alófonos
+5322316	diptongo
+5322316	diptongos
+5322484	vocal
+5322484	vocales
+5325089	consonante
+5325089	consonantes
+5325201	alveolar
+5325365	oclusivas
+5327988	nasal
+5327988	nasales
+5328532	velares
+5333921	pronunciaciones
+5333921	pronunciación
+5339187	diálogo
+5342032	debate
+5342032	discusión
+5351147	proverbios
+5352409	dialecto
+5352409	dialectos
+5359821	orden
+5362628	versiones
+5362628	versión
+5367872	conflicto
+5368498	querella
+5369177	discusiones
+5369177	discusión
+5376578	demanda
+5381135	descripción
+5383289	no
+5388391	notificación
+5390774	concesión
+5392977	historia
+5398169	gracias
+5406317	oraciones
+5414577	rendición
+5418696	estándar
+5418696	estándares
+5418696	patrón
+5432762	hecho
+5438613	resultado
+5441797	alteración
+5441797	cambio
+5441797	cambios
+5441797	modificaciones
+5441797	variaciones
+5445176	incendio
+5449233	vez
+5454715	éxito
+5457551	aparición
+5459242	comienzo
+5459242	comienzos
+5459242	inicio
+5464067	extinción
+5465405	derribo
+5478896	z
+5479076	fallecimiento
+5479076	muerte
+5492649	aullido
+5521527	compresión
+5526375	terremoto
+5528783	estática
+5529630	vórtice
+5532185	erupción
+5540443	boda
+5549852	open
+5556959	victoria
+5558471	derrota
+5573093	martirio
+5593480	preocupación
+5616177	compatibilidad
+5617748	dieta
+5618089	alimentación
+5649725	dulces
+5688055	conserva
+5723113	panecillo
+5759450	chile
+5767396	zanahoria
+5776463	delicias
+5879421	mantequilla
+5918560	borgoña
+5921936	rioja
+5956378	reino
+5956378	reinos
+5957670	humanidad
+5957670	mundo
+5957883	gente
+5963394	conjunto
+5972379	comunidades
+5973950	etnia
+5975241	clan
+5975241	familia
+5975241	sagas
+5976600	dinastía
+5981110	biblioteca
+5981110	bibliotecas
+5982514	pares
+5990251	conjunto
+5991008	familia
+5992669	subgrupo
+5996441	declinación
+5996567	conjugación
+5997592	organizaciones
+5997592	organización
+6000383	gobierno
+6001982	papado
+6006256	compañía
+6006256	compañías
+6024128	cristiandad
+6024357	cristianismo
+6032903	islam
+6037572	linaje
+6042737	familia
+6045616	variante
+6049069	departamento
+6066212	clero
+6066212	iglesia
+6069040	pueblo
+6069040	pueblos
+6074189	estado
+6074189	países
+6085732	compañía
+6086825	conjunto
+6089894	armada
+6103316	público
+6114774	reparto
+6119534	banda
+6131180	partidos
+6143628	tropas
+6151597	universidad
+6154325	flota
+6155266	alianza
+6155266	coalición
+6165226	aliados
+6166238	reunión
+6197111	tribu
+6197924	colonia
+6197924	colonias
+6201293	mando
+6210851	variedad
+6210851	variedades
+6216041	imperio
+6232231	formación
+6235973	columna
+6239044	red
+6239044	redes
+6239374	sistema
+6239374	sistemas
+6246946	serie
+6258879	consultoría
+6268839	área
+6268839	áreas
+6275359	origen
+6275359	principio
+6279444	frontera
+6279444	fronteras
+6283013	capital
+6285699	centros
+6287351	ciudad
+6287351	ciudades
+6294952	afueras
+6299747	estado
+6299747	naciones
+6299747	nación
+6299747	país
+6299747	países
+6299747	tierra
+6300934	condado
+6300934	condados
+6303494	obispado
+6303494	obispados
+6303974	califato
+6307482	dominio
+6307482	territorio
+6307482	territorios
+6308208	condados
+6308401	imperio
+6308767	reino
+6309044	principado
+6311701	norte
+6313922	tierra_prometida
+6314878	final
+6315687	entorno
+6315687	entornos
+6331456	sede
+6337463	línea
+6351418	plaza
+6356389	locales
+6358701	parte
+6358701	regiones
+6358701	región
+6359477	regiones
+6359477	región
+6364655	presencia
+6368045	paisaje
+6368526	localidad
+6368526	localidades
+6374245	estados
+6381267	lugar
+6381267	lugares
+6381267	sitio
+6381267	sitios
+6382213	poblaciones
+6382213	población
+6382213	pueblo
+6382213	villa
+6382213	villas
+6383691	asentamientos
+6385405	terreno
+6385405	territorio
+6391019	occidente
+6659860	razones
+6659860	razón
+6660712	dinámica
+6669293	piedra
+6669293	rocas
+6687090	trocito
+6708950	puerto
+6709272	camino
+6711088	montaña
+6711088	montañas
+6711088	monte
+6724431	laderas
+6725397	descenso
+6727012	campaña
+6727012	campañas
+6728413	bajo
+6730976	valle
+6741251	isla
+6744503	península
+6753779	mundo
+6755791	asteroide
+6760411	planeta
+6764909	supernova
+6765463	luna
+6768034	constelación
+6781925	mar
+6789983	río
+6789983	ríos
+6801422	costa
+6801422	costas
+6835944	continente
+6944789	creadores
+6945718	ingenieros
+6949059	habitantes
+6949059	vecinos
+6949518	nativas
+6949518	nativos
+6950629	amante
+6950891	autoridad
+6950891	líder
+6955549	viajero
+6955549	viajeros
+6957738	trabajadores
+6966427	mongol
+6967275	indios
+6997634	católico
+6998898	hebreo
+6998898	judío
+6999749	musulmanas
+6999749	musulmanes
+7001164	hindú
+7002675	europeos
+7012383	danesa
+7012383	danés
+7013224	británicos
+7013390	inglés
+7014792	sajón
+7019437	francesas
+7019437	francés
+7023369	normanda
+7023369	normandos
+7023800	húngaro
+7024154	iraní
+7025273	italiano
+7025870	romano
+7026216	veneciano
+7029105	luxemburgués
+7030830	moros
+7034349	polaco
+7036038	árabes
+7036542	escandinava
+7038257	español
+7038257	españoles
+7040504	turcos
+7053378	abadesa
+7053509	abad
+7056778	lector
+7061094	actor
+7061896	actriz
+7063930	almirante
+7071944	titulado
+7082144	arzobispo
+7085250	servidor
+7085250	servidores
+7088723	astrónomo
+7093842	pequeño
+7103944	bajo
+7108105	creyentes
+7109773	bereber
+7114010	obispo
+7124158	explorador
+7127521	hermana
+7127521	hermano
+7127521	hermanos
+7128962	toros
+7135420	califa
+7138865	jefe
+7142047	dibujante
+7147791	canciller
+7154377	hija
+7154377	hijo
+7156088	cronista
+7157546	ciudadanos
+7168973	comandante
+7171785	rojo
+7172243	compañeros
+7173042	compositor
+7173042	compositora
+7177921	conquistador
+7188077	condesa
+7197309	cliente
+7198793	zar
+7200414	dama
+7204757	sordas
+7211532	diputados
+7219043	distribuidoras
+7220340	médico
+7228506	drivers
+7230884	duque
+7232818	conde
+7232818	condes
+7237560	chispas
+7239856	emir
+7240288	emperador
+7240288	emperadores
+7240495	emperatriz
+7240707	empleados
+7241412	patrón
+7242157	enciclopedista
+7258194	padre
+7258194	papa
+7270030	contrario
+7270395	trovador
+7270395	trovadores
+7276210	fundador
+7280020	monje
+7280020	monjes
+7287417	generales
+7288873	señor
+7297767	gobernador
+7298477	gramático
+7298646	nieto
+7298646	nietos
+7299160	grande
+7311393	responsables
+7312239	cacique
+7315043	heredero
+7321477	historiador
+7321477	historiadora
+7331418	esposa
+7331418	marido
+7332563	heladera
+7334599	inmigrantes
+7337801	infanta
+7337801	infante
+7339332	sabio
+7341493	rebelde
+7342915	traductor
+7343952	invasores
+7354565	monarca
+7354565	rey
+7354565	reyes
+7356184	pariente
+7358345	caballero
+7366159	jurista
+7376418	lingüistas
+7382815	lotario
+7388436	mayordomo
+7389783	niño
+7389783	niños
+7391044	hombre
+7391044	varón
+7396119	marinos
+7397005	marqués
+7397604	mártir
+7399842	segundo
+7400665	matemático
+7401898	alcalde
+7404067	miembro
+7404067	miembros
+7419862	madre
+7424573	músico
+7425392	mutación
+7430196	sobrino
+7440234	funcionario
+7441400	descendientes
+7442529	viejo
+7448030	organizadores
+7451379	propietario
+7462019	patriarca
+7464910	labrador
+7473001	filólogo
+7473120	filósofo
+7478389	piratas
+7483717	poeta
+7484283	poetisa
+7486519	político
+7488041	papa
+7491804	fuerzas
+7498573	príncipe
+7499227	princesa
+7504924	programadores
+7506649	profeta
+7506812	profetisa
+7515745	reina
+7516053	reina
+7524377	reformador
+7531552	retirado
+7532433	revolucionarios
+7539656	gobernador
+7539656	gobernante
+7542916	navegantes
+7543434	santa
+7543434	santas
+7543434	santo
+7543954	vendedores
+7544547	samurai
+7546224	sarracenos
+7551404	maestro
+7551670	científico
+7567611	colonizador
+7567611	colonos
+7574722	enfermos
+7583414	esclavo
+7592357	hija
+7592357	hijo
+7592357	hijos
+7595200	sureños
+7601722	representantes
+7602853	consorte
+7608300	estadista
+7610081	hermanastro
+7610890	cargador
+7619562	subordinada
+7620399	sucesor
+7621226	sultán
+7623193	seguidores
+7639112	teólogo
+7640637	tercera
+7658488	usuarios
+7667236	virgen
+7667800	vizconde
+7667913	visigodo
+7667913	visigodos
+7669579	voluntarios
+7673728	caudillo
+7684780	mujer
+7689380	autor
+7689380	autores
+7689380	escritor
+7689380	escritora
+7692038	joven
+7692038	jóvenes
+7780411	brisa
+8142524	beta
+8306315	toba
+8343851	erizo
+8655393	musa
+8916881	groenlandia
+8941197	cerezo
+9403023	bonsai
+9415516	raíz
+9422534	espiga
+9423815	fruto
+9448555	rama
+9449141	ramos
+9535912	colonia
+9535912	provincia
+9538207	ingresos
+9541448	lucro
+9547800	premio
+9552872	gasto
+9560583	rescate
+9562733	porción
+9562992	participación
+9576753	precios
+9580808	contribuciones
+9580808	impuestos
+9642587	monedas
+9649598	cuota
+9669871	proceso
+9669871	procesos
+9679559	liberación
+9686541	fuego
+9686541	llamas
+9708563	desarrollo
+9724860	desarrollo
+9724860	evolución
+9730726	declinación
+9750253	ejecución
+9768132	resultado
+9806947	cd
+9809274	w
+9822324	m
+9824793	francos
+9853415	córdoba
+9882076	j
+9901877	cientos
+9902316	miles
+9902865	millones
+9904938	aumento
+9920569	ejército
+9920569	ejércitos
+9926856	funciones
+9939326	modo
+9939326	modos
+9939566	indicativo
+9940711	voces
+9941109	pasiva
+9941320	flexión
+9941551	conjugación
+9945970	parte
+9946775	módulo
+9946775	módulos
+9947291	resto
+9947291	restos
+9965063	sur
+9965562	sudoeste
+9966059	oeste
+9976604	décimo
+9981153	oposición
+9982023	contraste
+9996479	disco
+9996479	discos
+10019436	borde
+10019436	frontera
+10019436	fronteras
+10032130	condición
+10035141	situaciones
+10035141	situación
+10037776	afiliación
+10044643	nivel
+10044643	punto
+10044643	puntos
+10047274	casos
+10047274	ocasiones
+10048803	distinción
+10048803	posición
+10054265	existencia
+10054722	realidad
+10054966	realidad
+10061309	enlaces
+10063906	orden
+10065207	paz
+10073471	noche
+10073471	noches
+10076479	dicha
+10079933	libertad
+10080443	independencia
+10081021	soberanía
+10084106	esclavitud
+10091362	funcionamiento
+10091362	manejo
+10092475	desuso
+10094970	alto
+10142749	corea
+10168619	lepra
+10257548	heridas
+10301947	tos
+10337658	bascones
+10340761	dificultades
+10349313	restauración
+10354378	nobleza
+10358202	fama
+10358350	respeto
+10358851	reputación
+10367157	necesidades
+10371356	aire
+10390345	oportunidades
+10417677	ambiente
+10425881	seguridad
+10588962	ceniza
+10655576	orina
+10655982	residuo
+10665044	filtrado
+10772760	sal
+10777612	pólvora
+10836071	tabla
+10843624	etapas
+10843624	período
+10849142	pasado
+10849807	futuro
+10850147	momentos
+10850147	tiempo
+10850147	tiempos
+10850147	época
+10850510	época
+10859852	continuidad
+10867147	nacimiento
+10867885	muerte
+10869347	edad
+10869613	infancia
+10873520	mayoría
+10873719	minoría
+10875146	edad
+10876395	día
+10876395	días
+10877537	víspera
+10880047	fecha
+10883946	días
+10885066	tardes
+10885337	noche
+10885337	noches
+10891500	calendario
+10917509	año
+10917509	años
+10918678	siglo
+10918678	siglos
+10922179	meses
+10938063	hora
+10944012	s
+10945693	otoño
+10945917	primavera
+10946199	verano
+10946591	invierno
+10955141	era
+10956318	jubileo
+10962839	reinado
+10964831	tiempo
+10966461	fin
+10966461	fines
+10966461	términos
+10969750	interrupciones
+10969750	pausa
+10980504	ritmo
