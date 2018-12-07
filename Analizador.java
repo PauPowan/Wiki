@@ -49,7 +49,10 @@ public class Analizador
         tri=new Archivo(TRIPLETAS);
 
         crearDiccionarios();
-        crearTripletas();
+       // crearTripletas();
+       
+       //System.out.println(arbolS.getId("Aragón"));
+       //111872	modo
     }
 
     public void crearDiccionarios()throws FileNotFoundException, IOException {    
@@ -63,14 +66,14 @@ public class Analizador
             linea= cadena.split(" ");        
             if(linea.length>2&&linea[2].charAt(0)=='N'){
                 if(!linea[3].matches("0")){  
-                    arbolS.insertar(Integer.parseInt(linea[3]),linea[0].toLowerCase(),false);                    
+                    arbolS.insertar(Integer.parseInt(linea[3]),linea[0].toLowerCase());                    
                 }else{
-                    arbolNP.insertar(idNP.get(idNP.size()-1),linea[0],false); 
+                    arbolNP.insertar(idNP.get(idNP.size()-1),linea[0]); 
                     idNP.remove(idNP.size()-1);
                 }
             }
             if(linea.length>2&&linea[2].charAt(0)=='V'){
-                arbolV.insertar(Integer.parseInt(linea[3]),linea[0].toLowerCase(),false);
+                arbolV.insertar(Integer.parseInt(linea[3]),linea[0].toLowerCase());
             }            
             //System.out.println(linea[0]);
         }
@@ -127,9 +130,9 @@ public class Analizador
                     idTrip+=sustantivo2[3];
                     idS2=sustantivo2[3];
                 }
-                arbolTri.insertar(Integer.parseInt(idTrip),idS1,true);
-                arbolTri.insertar(Integer.parseInt(idTrip),linea[3],true);
-                arbolTri.insertar(Integer.parseInt(idTrip),idS2,true);
+                // arbolTri.insertar(Integer.parseInt(idTrip),idS1,true);
+                // arbolTri.insertar(Integer.parseInt(idTrip),linea[3],true);
+                // arbolTri.insertar(Integer.parseInt(idTrip),idS2,true);
             }
         }
         tri.crear(arbolTri.toString());
