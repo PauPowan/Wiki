@@ -27,7 +27,7 @@ public class ArbolTri {
                 tira += hijo[lado].toString();   
             }
             for(int i=0;i<palabras.size();i++){
-                tira+="\n"+this.id+"\t"+palabras.get(i)[0]+"\t"+palabras.get(i)[1];
+                tira+="\n"+this.id+"\t"+this.palabras.get(i)[0]+"\t"+this.palabras.get(i)[1];
             }
             lado = DER;
             if(hijo[lado]!=null){

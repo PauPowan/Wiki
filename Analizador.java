@@ -10,14 +10,16 @@ public class Analizador
     /**
      * Constructor for objects of class Analizador
      */
-    public static final String SUSTANTIVOS="Sustantivos.txt";
-    public static final String VERBOS="Verbos.txt";
-    public static final String NPROPIOS="Nombres Propios.txt";
-    public static final String TRIPLETAS="Tripletas.txt";
+    public static final String SUSTANTIVOS="Diccionarios/Sustantivos.txt";
+    public static final String VERBOS="Diccionarios/Verbos.txt";
+    public static final String NPROPIOS="Diccionarios/Nombres Propios.txt";
+    public static final String TRIPLETAS="Diccionarios/Trip.txt";
     Arbol arbolS;
     Arbol arbolV;
     Arbol arbolNP;
-    Arbol arbolTri;
+    ArbolTri arbolTriV;
+    ArbolTri arbolTriS1;
+    ArbolTri arbolTriS2;
     Archivo tri;
     Archivo sust;
     Archivo verb;
@@ -40,7 +42,9 @@ public class Analizador
         this.url=url;
         arbolS=new Arbol();
         arbolV=new Arbol();
-        arbolTri=new Arbol();
+        arbolTriV=new ArbolTri();
+        arbolTriS1=new ArbolTri();
+        arbolTriS2=new ArbolTri();
         arbolNP=new Arbol();
         this.idNP= new ArrayList<Integer>();
         sust=new Archivo(SUSTANTIVOS);
@@ -49,10 +53,10 @@ public class Analizador
         tri=new Archivo(TRIPLETAS);
 
         crearDiccionarios();
-       // crearTripletas();
-       
-       //System.out.println(arbolS.getId("Aragón"));
-       //111872	modo
+        crearTripletas();
+
+        //System.out.println(arbolS.getId("Aragï¿½n"));
+        //111872    modo
     }
 
     public void crearDiccionarios()throws FileNotFoundException, IOException {    
@@ -86,82 +90,93 @@ public class Analizador
     private void crearTripletas()throws FileNotFoundException, IOException {
         String cadena;
         String cadenaTemp;
-        String[] linea;  
-        String[] lineaTemp; 
-        String[] sustantivo1=new String[4];
-        String[] sustantivo2=new String[4];
-        String idS1;
-        String idV;
-        String idS2;
-        String idTrip;
-        boolean salir=false;
+        int ln=0;
+        int lnTemp=0;
+        String [] ids=new String[2];
+        String[] linea;
+        String[] lineaTemp;
+        String[] s1=new String[4];
+        String[] v=new String[4];
+        String[] s2=new String[4];;
         FileReader f = new FileReader(url);
+        FileReader fTemp;
         BufferedReader b = new BufferedReader(f);
-        BufferedReader bTemp = new BufferedReader(f);
+        BufferedReader bTemp;
         while((cadena = b.readLine())!=null) {
-            linea= cadena.split(" ");          
+            linea= cadena.split(" ");
+            ln++;
             if(linea.length>2&&linea[2].charAt(0)=='N'){
-                sustantivo1=linea;
+                s1=linea;
             }
+            
+            
             if(linea.length>2&&linea[2].charAt(0)=='V'){
-                idTrip="";
-                bTemp=b;
-                salir=false;
-                while((cadenaTemp = bTemp.readLine())!=null &&!salir ) {
-                    lineaTemp= cadenaTemp.split(" ");
-                    if(lineaTemp.length>2&&lineaTemp[2].charAt(0)=='N'){
-                        sustantivo2=lineaTemp;                        
-                        salir=true;
+                fTemp = new FileReader(url);
+                bTemp = new BufferedReader(fTemp);
+                lnTemp=0;
+                s2=null;
+                v=linea;                
+               
+                while((cadenaTemp = bTemp.readLine())!=null&& s2==null) {
+                    lineaTemp= cadenaTemp.split(" "); 
+                    if(lnTemp>ln){
+                        if(lineaTemp.length>2&&lineaTemp[2].charAt(0)=='N'){
+                            s2=lineaTemp;
+                        }   
+                    }else{
+                        lnTemp++;
                     }
+                }                
+                if(s1[3].equals("0")){
+                    s1[3]=Integer.toString(arbolNP.getId(s1[0]));
                 }
+                if(s2[3].equals("0")){
+                    s2[3]=Integer.toString(arbolNP.getId(s2[0]));
+                }
+                ids=new String[2];
+                ids[0]=s1[3];
+                ids[1]=s2[3];
+                arbolTriV.insertar(Integer.parseInt(v[3]),ids);
+                ids=new String[2];
+                ids[0]=v[3];
+                ids[1]=s2[3];
+                arbolTriS1.insertar(Integer.parseInt(s1[3]),ids);
+                ids=new String[2];
+                ids[0]=s1[3];
+                ids[1]=v[3];
+                arbolTriS2.insertar(Integer.parseInt(s2[3]),ids);
 
-                if(sustantivo1[3].matches("0")){ 
-                    idS1=Integer.toString(arbolNP.getId(sustantivo1[0]));
-                    idTrip+=Integer.toString(arbolNP.getId(sustantivo1[0])*-1);
-                }else{
-                    idTrip+=sustantivo1[3];
-                    idS1=sustantivo1[3];
-                }
-                idTrip=linea[3];
-                if(sustantivo2[3].matches("0")){ 
-                    idS2=Integer.toString(arbolNP.getId(sustantivo2[0]));
-                    idTrip+=Integer.toString(arbolNP.getId(sustantivo2[0])*-1);
-                }else{
-                    idTrip+=sustantivo2[3];
-                    idS2=sustantivo2[3];
-                }
-                // arbolTri.insertar(Integer.parseInt(idTrip),idS1,true);
-                // arbolTri.insertar(Integer.parseInt(idTrip),linea[3],true);
-                // arbolTri.insertar(Integer.parseInt(idTrip),idS2,true);
-            }
-        }
-        tri.crear(arbolTri.toString());
+        }            
+        //System.out.println(linea[0]);
+      
     }
+    tri.crear(arbolTriS1.toString());
+}
 
-    public void calcularNP()throws FileNotFoundException, IOException {
-        String cadena;
-        int cantidadNP=-1;
-        idNP.clear();
-        String[] linea; 
-        FileReader f = new FileReader(url);
-        BufferedReader b = new BufferedReader(f);
-        BufferedReader bTemp = new BufferedReader(f);
-        while((cadena = b.readLine())!=null) {
-            linea= cadena.split(" "); 
-            if(linea.length>2&&linea[2].charAt(0)=='N'&&linea[3].matches("0")){
-                idNP.add(cantidadNP);
-                cantidadNP--;
-            }
+public void calcularNP()throws FileNotFoundException, IOException {
+String cadena;
+int cantidadNP=-1;
+idNP.clear();
+String[] linea; 
+FileReader f = new FileReader(url);
+BufferedReader b = new BufferedReader(f);
 
-        }
-        Collections.shuffle(idNP);
-    }
-    // public void leer()throws FileNotFoundException, IOException {    
-    // String cadena;
-    // FileReader f = new FileReader("peq.txt");
-    // BufferedReader b = new BufferedReader(f);
-    // while((cadena = b.readLine())!=null) {
-    // System.out.println(cadena);
-    // }
-    // }
+while((cadena = b.readLine())!=null) {
+linea= cadena.split(" "); 
+if(linea.length>2&&linea[2].charAt(0)=='N'&&linea[3].matches("0")){
+idNP.add(cantidadNP);
+cantidadNP--;
+}
+
+}
+Collections.shuffle(idNP);
+}
+// public void leer()throws FileNotFoundException, IOException {    
+// String cadena;
+// FileReader f = new FileReader("peq.txt");
+// BufferedReader b = new BufferedReader(f);
+// while((cadena = b.readLine())!=null) {
+// System.out.println(cadena);
+// }
+// }
 }
