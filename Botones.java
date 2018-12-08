@@ -19,6 +19,14 @@ public class Botones extends JPanel implements ActionListener {
        }
     }
 
+     /**
+     * Ejecuta las acciones de los botones:
+     * CARGAR ARCHIVO crea un analizador con el archivo proporcionado
+     * GENERAR TRIPLETAS ejecuta los métodos que retornan las tripletas solicitadas
+     * 
+     * @param  No posee
+     * @return No posee
+     */
     public void actionPerformed(ActionEvent evento){
        switch(evento.getActionCommand()){ 
           case "CARGAR ARCHIVO":
@@ -44,6 +52,6 @@ public class Botones extends JPanel implements ActionListener {
              contenido.add(resultado);
           break;     
        }
-       //madre.repaint();
+       madre.repaint();
     }
 }

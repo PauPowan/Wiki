@@ -39,7 +39,13 @@ public class Analizador
     }
     
     
-    
+     /**
+     * Método que inicializa los valores de la instancia, funciona para ambos constructores
+     *
+     * @param  String url el nombre del archivo a abrir
+     * @return No posee
+
+     */
     private void init(String url) throws IOException{
         this.url=url;
         arbolS=new Arbol();
@@ -57,7 +63,7 @@ public class Analizador
     }
     
     
-    
+    //es un set normal
     public void setDicc(String url)throws FileNotFoundException, IOException{
         this.url=url;
         crearDiccionarios();
@@ -65,7 +71,14 @@ public class Analizador
     }
     
     
-    
+    /**
+     *Recorre el archivo y separa los términos dependiendo de su clasificación
+     *en diferentes árboles, que luego transfiere a archivos que cumplen el papel de diccionarios
+     *para estos términos y sus IDs
+     *
+     * @param  No posee
+     * @return No posee
+     */
     public void crearDiccionarios()throws FileNotFoundException, IOException {    
         String cadena;
         String[] linea;
@@ -94,7 +107,13 @@ public class Analizador
         nomP.crear(arbolNP.toString());
     }
 
-    
+     /**
+     * Crea el árbol de tripletas donde se guardarán todas las posibles combinaciones de tripletas
+     * y lo transfiere a un archivo que cumple el papel de diccionario para estas
+     * 
+     * @param  No posee
+     * @return No posee
+     */
     private void crearTripletas()throws FileNotFoundException, IOException {
         String cadena;
         String cadenaTemp;
@@ -161,7 +180,14 @@ public class Analizador
         }
         tri.crear(arbolTriS1.toString());
     }
-
+    
+    /**
+     * Genera los IDs para los sustantivos propios. Utiliza una sucesión de números negativos y luego los mezcla
+     * para evitar que el árbol de sustantivos propios se desbalancee hacia un solo lado
+     * 
+     * @param  No posee
+     * @return No posee
+     */
     public void calcularNP()throws FileNotFoundException, IOException {
         String cadena;
         int cantidadNP=-1;
@@ -181,6 +207,14 @@ public class Analizador
         Collections.shuffle(idNP);
     }
 
+    /**
+     * Recibe los términos que ingresó el usuario y busca las tripletas que coincidan con estos
+     * 
+     * @param  String[] campos los tres términos a analizar, uno de ellos va a estar vacío
+     * @param boolean nP1 un boolean que establece si el primer sustantivo es propio
+     * @param boolean nP2 un boolean que establece si el segundo sustantivo es propio
+     * @return No posee
+     */
     public String buscarTripleta(String[]campos,boolean nP1,boolean nP2){
         String tripletas="";
         String lineas[];

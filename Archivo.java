@@ -10,13 +10,10 @@ import java.io.IOException;
  */
 public class Archivo
 {
-    // instance variables - replace the example below with your own
     String ruta;
     File archivo;
     BufferedWriter bw;
-    /**
-     * Constructor for objects of class Archivo
-     */
+
     public Archivo(String ruta)throws IOException 
     {
         this.ruta=ruta;
@@ -24,6 +21,13 @@ public class Archivo
 
     }
 
+     /**
+     * Genera un archivo de texto a partir de un String, usualmente un toString de un árbol 
+     * en este programa
+     * 
+     * @param  String texto el string que se proporciona para crear el archivo
+     * @return No posee
+     */
     public void crear(String texto)throws IOException 
     {
         if(archivo.exists()) {
