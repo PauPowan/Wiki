@@ -7,9 +7,6 @@ import java.io.*;
 public class Analizador
 {
     String url;
-    /**
-     * Constructor for objects of class Analizador
-     */
     public static final String SUSTANTIVOS="Diccionarios/Sustantivos.txt";
     public static final String VERBOS="Diccionarios/Verbos.txt";
     public static final String NPROPIOS="Diccionarios/Nombres Propios.txt";
@@ -52,11 +49,6 @@ public class Analizador
         nomP=new Archivo(NPROPIOS);
         tri=new Archivo(TRIPLETAS);
 
-        //crearDiccionarios();
-        //crearTripletas();
-
-        //System.out.println(arbolS.getId("Arag�n"));
-        //111872    modo
     }
     public void setDicc(String url){
         this.url=url;
@@ -81,9 +73,9 @@ public class Analizador
             if(linea.length>2&&linea[2].charAt(0)=='V'){
                 arbolV.insertar(Integer.parseInt(linea[3]),linea[0].toLowerCase());
             }            
-            //System.out.println(linea[0]);
+
         }
-        // System.out.print(arbol.toString());
+
         sust.crear(arbolS.toString());
         verb.crear(arbolV.toString());
         nomP.crear(arbolNP.toString());
@@ -151,7 +143,6 @@ public class Analizador
                 arbolTriS2.insertar(Integer.parseInt(s2[3]),ids);
 
             }            
-            //System.out.println(linea[0]);
 
         }
         tri.crear(arbolTriS1.toString());
@@ -192,9 +183,7 @@ public class Analizador
             }
             tripletas+=arbolTriV.buscarTripleta(id1,id2);
             lineas=tripletas.split("\n");
-            // if(lineas.length<=1){
-                // lineas=tripletas;
-            // }
+
             tripletas="";
             for(int i=1;i<lineas.length;i++){
                 ids=lineas[i].split(" ");  
@@ -224,9 +213,7 @@ public class Analizador
             }
             tripletas+=arbolTriS2.buscarTripleta(id1,id2);
             lineas=tripletas.split("\n");
-            // if(lineas.length<=1){
-                // lineas=tripletas;
-            // }
+
             tripletas="";
             for(int i=1;i<lineas.length;i++){
                 ids=lineas[i].split(" ");  
@@ -247,9 +234,7 @@ public class Analizador
             }
             tripletas+=arbolTriS1.buscarTripleta(id1,id2);
             lineas=tripletas.split("\n");
-            // if(lineas.length<=1){
-                // lineas={tripletas};
-            // }
+
             tripletas="";
             for(int i=1;i<lineas.length;i++){
                 ids=lineas[i].split(" ");  
@@ -269,12 +254,4 @@ public class Analizador
         System.out.println(tripletas);
         return tripletas;
     }
-    // public void leer()throws FileNotFoundException, IOException {    
-    // String cadena;
-    // FileReader f = new FileReader("peq.txt");
-    // BufferedReader b = new BufferedReader(f);
-    // while((cadena = b.readLine())!=null) {
-    // System.out.println(cadena);
-    // }
-    // }
 }
