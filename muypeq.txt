@@ -61,6 +61,11 @@ primera 1 AO0FS0 02098880
 escalada escalada NCFS000 00209737
 a a SPS00 0
 el el DA0MS0 0
+Alí alí NP00000 0
+escalada escalada NCFS000 00209737
+murió morir VMIS3S0 00250254
 monte monte NCMS000 06711088
-Fuji fuji NP00000 0
+Alí alí NP00000 0
+murió morir VMIS3S0 00250254
+escalada escalada NCFS000 00209737
 en en SPS00 0

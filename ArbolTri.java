@@ -10,12 +10,12 @@ public class ArbolTri {
         public int id;
         public ArrayList<String[]> palabras;
         public Nodo hijo[];
-        boolean tripleta;
+
         public Nodo(int id,String[] palabra){
             this.id= id;
             this.palabras= new ArrayList<String[]>();
             this.palabras.add(palabra);
-            this.tripleta=tripleta;
+
             hijo = new Nodo[NODOS];
             // hijo[IZQ] y hijo[DER] son null
         }
@@ -27,7 +27,7 @@ public class ArbolTri {
                 tira += hijo[lado].toString();   
             }
             for(int i=0;i<palabras.size();i++){
-                tira+="\n"+this.id+"\t"+this.palabras.get(i)[0]+"\t"+this.palabras.get(i)[1];
+                tira+=this.id+"\t"+this.palabras.get(i)[0]+"\t"+this.palabras.get(i)[1]+"\n";
             }
             lado = DER;
             if(hijo[lado]!=null){
@@ -36,37 +36,64 @@ public class ArbolTri {
             return tira;
         }
 
+        public String buscarTripleta(int id1,String id2){
+            String tripletas="";
+            int lado = IZQ;
+            if(this.id!=id1){
+                if(id1>this.id){
+                    lado = DER;
+                }
+                if(hijo[lado]!=null){
+                    tripletas+=hijo[lado].buscarTripleta(id1,id2);
+                }
+                // if(tripletas.equals("")){
+                    // lado=DER;
+                    // if(hijo[lado]!=null){
+                    // tripletas+=hijo[lado].buscarTripleta(id1,id2);
+                // }
+                // }
+                
+            }else{
+                for(int i=0;i<palabras.size();i++){
+                    if(palabras.get(i)[0].equals(id2)){
+                        tripletas+="\n"+id+" "+id2+" "+palabras.get(i)[1];
+                    }
+                }
+
+            }
+            return tripletas;        
+        }
         // public int getId(int id,String busqueda){
 
-            // int lado = IZQ;            
-            // if(hijo[lado]!=null){
-                // id=hijo[lado].getId(id,busqueda);   
-            // }
-            // if(id==0&&this.palabras.contains(busqueda)){
-                // id=this.id;
-            // }
-            // lado=DER;
-            // if(id==0&&hijo[lado]!=null){
-                // id=hijo[lado].getId(id,busqueda); 
-            // }
-            // return id;
+        // int lado = IZQ;            
+        // if(hijo[lado]!=null){
+        // id=hijo[lado].getId(id,busqueda);   
+        // }
+        // if(id==0&&this.palabras.contains(busqueda)){
+        // id=this.id;
+        // }
+        // lado=DER;
+        // if(id==0&&hijo[lado]!=null){
+        // id=hijo[lado].getId(id,busqueda); 
+        // }
+        // return id;
         // }
 
-        // // // // public ArrayList getPalabras(int id){
-            // // // // ArrayList<String> busqueda=new ArrayList<String>();;
-            // // // // int lado=IZQ;
-            // // // // if(this.id!=id){
-                // // // // if(id>this.id){
-                    // // // // lado = DER;
-                // // // // }
-                // // // // if(hijo[lado]!=null){
-                    // // // // busqueda=hijo[lado].getPalabras(id);   
-                // // // // }
-            // // // // }else{
-                // // // // busqueda = (ArrayList) this.palabras.clone();
-            // // // // }
+        // // // public ArrayList getPalabras(int id){
+        // // // ArrayList<String> busqueda=new ArrayList<String>();;
+        // // // int lado=IZQ;
+        // // // if(this.id!=id){
+        // // // if(id>this.id){
+        // // // lado = DER;
+        // // // }
+        // // // if(hijo[lado]!=null){
+        // // // busqueda=hijo[lado].getPalabras(id);   
+        // // // }
+        // // // }else{
+        // // // busqueda = (ArrayList) this.palabras.clone();
+        // // // }
 
-            // // // // return busqueda;
+        // // // return busqueda;
         // // // // }
 
         public void insertar(int id,String palabra[]){
@@ -112,19 +139,24 @@ public class ArbolTri {
         return tira;
     }
 
+    public String buscarTripleta(int id1,String id2){
+        String tripletas="";
+        tripletas=raiz.buscarTripleta( id1,id2);
+        return tripletas;        
+    }
     // public int getId(String busqueda){
-        // int id=0;
-        // id=raiz.getId(id,busqueda);
-        // return id;
+    // int id=0;
+    // id=raiz.getId(id,busqueda);
+    // return id;
     // }
 
     // public String getPalabras(int id){
-        // ArrayList<String> busqueda;
-        // busqueda=raiz.getPalabras(id); 
-        // String palabras="";
-        // for(int i=0;i<busqueda.size();i++){
-            // palabras+=busqueda.get(i)+"\n";
-        // }
-        // return palabras;
+    // ArrayList<String> busqueda;
+    // busqueda=raiz.getPalabras(id); 
+    // String palabras="";
+    // for(int i=0;i<busqueda.size();i++){
+    // palabras+=busqueda.get(i)+"\n";
+    // }
+    // return palabras;
     // }
 }

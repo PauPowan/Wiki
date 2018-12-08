@@ -10,12 +10,12 @@ public class Arbol {
         public int id;
         public ArrayList<String> palabras;
         public Nodo hijo[];
-        boolean tripleta;
+
         public Nodo(int id,String palabra){
             this.id= id;
             this.palabras= new ArrayList<String>();
             this.palabras.add(palabra);
-            this.tripleta=tripleta;
+
             hijo = new Nodo[NODOS];
             // hijo[IZQ] y hijo[DER] son null
         }
@@ -63,6 +63,12 @@ public class Arbol {
                 if(hijo[lado]!=null){
                     busqueda=hijo[lado].getPalabras(id);   
                 }
+                // if(busqueda.size()==0){
+                    // lado=DER;
+                    // if(hijo[lado]!=null){
+                        // busqueda=hijo[lado].getPalabras(id);   
+                    // }
+                // }
             }else{
                 busqueda = (ArrayList) this.palabras.clone();
             }
@@ -114,13 +120,9 @@ public class Arbol {
         return id;
     }
 
-    public String getPalabras(int id){
+    public  ArrayList getPalabras(int id){
         ArrayList<String> busqueda;
         busqueda=raiz.getPalabras(id); 
-        String palabras="";
-        for(int i=0;i<busqueda.size();i++){
-            palabras+=busqueda.get(i)+"\n";
-        }
-        return palabras;
+        return busqueda;
     }
 }
