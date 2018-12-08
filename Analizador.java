@@ -52,13 +52,15 @@ public class Analizador
         nomP=new Archivo(NPROPIOS);
         tri=new Archivo(TRIPLETAS);
 
-        crearDiccionarios();
-        crearTripletas();
+        //crearDiccionarios();
+        //crearTripletas();
 
         //System.out.println(arbolS.getId("Arag�n"));
         //111872    modo
     }
-
+    public void setDicc(String url){
+        this.url=url;
+    }
     public void crearDiccionarios()throws FileNotFoundException, IOException {    
         String cadena;
         String[] linea;
@@ -186,7 +188,7 @@ public class Analizador
             if(nP2){
                 id2=String.format("%08d",arbolNP.getId(campos[2]));
             }else{
-                id2=String.format("%08d",arbolS.getId(campos[2]));
+                id2=String.format("%08d",arbolS.getId(campos[2].toLowerCase()));
             }
             tripletas+=arbolTriV.buscarTripleta(id1,id2);
             lineas=tripletas.split("\n");
@@ -237,11 +239,11 @@ public class Analizador
         }
 
         if(campos[2]==""){
-            id2=String.format("%08d",arbolV.getId(campos[1]));
+            id2=String.format("%08d",arbolV.getId(campos[1].toLowerCase()));
             if(nP1){
                 id1=arbolNP.getId(campos[0]);
             }else{
-                id1=arbolS.getId(campos[0]);
+                id1=arbolS.getId(campos[0].toLowerCase());
             }
             tripletas+=arbolTriS1.buscarTripleta(id1,id2);
             lineas=tripletas.split("\n");
