@@ -39,10 +39,9 @@ public class Botones extends JPanel implements ActionListener {
              primeroEsPropio = contenido.getPrimerCheckBox();
              segundoEsPropio = contenido.getSegundoCheckBox();
              String tripletas = analizador.buscarTripleta(textoUsuario, primeroEsPropio,segundoEsPropio);
-             JLabel dioTripletas = new JLabel();
-             dioTripletas.setText("Se ha analizado el documento.");
-             contenido.add(dioTripletas);
-             
+             System.out.print(tripletas); //por si acaso
+             JTextArea resultado = new JTextArea(tripletas);
+             contenido.add(resultado);
           break;     
        }
        //madre.repaint();

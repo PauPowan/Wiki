@@ -13,30 +13,35 @@ public class Contenido extends JPanel{
     public Contenido(){
        super();
        setLayout(camposTexto);
-       JLabel padding0 = new JLabel("");
-       archivo = new JTextField(40);
-       JLabel padding1 = new JLabel("");
-       add(padding0);
-       add(archivo);
-       add(padding1);
+       //---------------------------------------------------
        JLabel label0 = new JLabel("");
        JLabel label1 = new JLabel("Nombre del archivo");
        JLabel label2 = new JLabel("");
        add(label0);
        add(label1);
        add(label2);
+       //---------------------------------------------------
+       JLabel padding0 = new JLabel("");
+       archivo = new JTextField(40);
+       JLabel padding1 = new JLabel("");
+       add(padding0);
+       add(archivo);
+       add(padding1);
+       //---------------------------------------------------
        JLabel label3 = new JLabel(" Sujeto:");
        JLabel label4 = new JLabel(" Verbo:");
        JLabel label5 = new JLabel(" Predicado:");
        add(label3);
        add(label4);
        add(label5);
+       //---------------------------------------------------
        textField0 = new JTextField(40);
        textField1 = new JTextField(40);
        textField2 = new JTextField(40);
        add(textField0);
        add(textField1);
        add(textField2);
+       //---------------------------------------------------
        checkBox0 = new JCheckBox("Sustantivo propio");
        JLabel label6 = new JLabel("");
        checkBox1 = new JCheckBox("Sustantivo propio");

@@ -22,19 +22,24 @@ public class Analizador
     Archivo verb;
     Archivo nomP; 
     ArrayList<Integer> idNP;
+    
+    
     public Analizador(String url) throws IOException
     {
         init(url);
 
     }
-
+    
+    
     public Analizador() throws IOException
     {   
         url="peq.txt";
         init(url);        
 
     }
-
+    
+    
+    
     private void init(String url) throws IOException{
         this.url=url;
         arbolS=new Arbol();
@@ -50,9 +55,15 @@ public class Analizador
         tri=new Archivo(TRIPLETAS);
 
     }
+    
+    
+    
     public void setDicc(String url){
         this.url=url;
     }
+    
+    
+    
     public void crearDiccionarios()throws FileNotFoundException, IOException {    
         String cadena;
         String[] linea;
@@ -81,6 +92,7 @@ public class Analizador
         nomP.crear(arbolNP.toString());
     }
 
+    
     private void crearTripletas()throws FileNotFoundException, IOException {
         String cadena;
         String cadenaTemp;
