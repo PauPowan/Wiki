@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-
+//Árbol con id y elemento
 public class Arbol {
     public static final int IZQ = 0;
     public static final int DER = 1;
@@ -17,7 +17,6 @@ public class Arbol {
             this.palabras.add(palabra);
 
             hijo = new Nodo[NODOS];
-            // hijo[IZQ] y hijo[DER] son null
         }
 
         public String toString(){

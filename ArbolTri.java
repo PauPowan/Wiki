@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-
+//Estructura de datos especial para las tripletas. Un árbol con vectores de elementos
 public class ArbolTri {
     public static final int IZQ = 0;
     public static final int DER = 1;
@@ -17,7 +17,7 @@ public class ArbolTri {
             this.palabras.add(palabra);
 
             hijo = new Nodo[NODOS];
-            // hijo[IZQ] y hijo[DER] son null
+
         }
 
         public String toString(){
@@ -46,13 +46,7 @@ public class ArbolTri {
                 if(hijo[lado]!=null){
                     tripletas+=hijo[lado].buscarTripleta(id1,id2);
                 }
-                // if(tripletas.equals("")){
-                    // lado=DER;
-                    // if(hijo[lado]!=null){
-                    // tripletas+=hijo[lado].buscarTripleta(id1,id2);
-                // }
-                // }
-                
+
             }else{
                 for(int i=0;i<palabras.size();i++){
                     if(palabras.get(i)[0].equals(id2)){
@@ -63,38 +57,7 @@ public class ArbolTri {
             }
             return tripletas;        
         }
-        // public int getId(int id,String busqueda){
 
-        // int lado = IZQ;            
-        // if(hijo[lado]!=null){
-        // id=hijo[lado].getId(id,busqueda);   
-        // }
-        // if(id==0&&this.palabras.contains(busqueda)){
-        // id=this.id;
-        // }
-        // lado=DER;
-        // if(id==0&&hijo[lado]!=null){
-        // id=hijo[lado].getId(id,busqueda); 
-        // }
-        // return id;
-        // }
-
-        // // // public ArrayList getPalabras(int id){
-        // // // ArrayList<String> busqueda=new ArrayList<String>();;
-        // // // int lado=IZQ;
-        // // // if(this.id!=id){
-        // // // if(id>this.id){
-        // // // lado = DER;
-        // // // }
-        // // // if(hijo[lado]!=null){
-        // // // busqueda=hijo[lado].getPalabras(id);   
-        // // // }
-        // // // }else{
-        // // // busqueda = (ArrayList) this.palabras.clone();
-        // // // }
-
-        // // // return busqueda;
-        // // // // }
 
         public void insertar(int id,String palabra[]){
             int lado = IZQ;
@@ -144,19 +107,5 @@ public class ArbolTri {
         tripletas=raiz.buscarTripleta( id1,id2);
         return tripletas;        
     }
-    // public int getId(String busqueda){
-    // int id=0;
-    // id=raiz.getId(id,busqueda);
-    // return id;
-    // }
 
-    // public String getPalabras(int id){
-    // ArrayList<String> busqueda;
-    // busqueda=raiz.getPalabras(id); 
-    // String palabras="";
-    // for(int i=0;i<busqueda.size();i++){
-    // palabras+=busqueda.get(i)+"\n";
-    // }
-    // return palabras;
-    // }
 }
