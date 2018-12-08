@@ -58,8 +58,10 @@ public class Analizador
     
     
     
-    public void setDicc(String url){
+    public void setDicc(String url)throws FileNotFoundException, IOException{
         this.url=url;
+        crearDiccionarios();
+        crearTripletas();
     }
     
     
